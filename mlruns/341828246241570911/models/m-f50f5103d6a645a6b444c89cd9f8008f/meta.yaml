@@ -1,0 +1,10 @@
+artifact_location: file:///home/x/projects/s_pro/VotEdge/mlruns/341828246241570911/models/m-f50f5103d6a645a6b444c89cd9f8008f/artifacts
+creation_timestamp: 1754986297466
+experiment_id: '341828246241570911'
+last_updated_timestamp: 1754986305090
+model_id: m-f50f5103d6a645a6b444c89cd9f8008f
+model_type: null
+name: model
+source_run_id: 84a207c35ffe4f5ab2e738719216472f
+status: 2
+status_message: null

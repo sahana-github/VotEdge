@@ -1,0 +1,142 @@
+[
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 1",
+    "description": "This is a sample description for BJP news article 1",
+    "url": "https://example.com/sample-bjp-news-1",
+    "published_at": "2025-08-12T13:36:24.888665"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 2",
+    "description": "This is a sample description for BJP news article 2",
+    "url": "https://example.com/sample-bjp-news-2",
+    "published_at": "2025-08-12T13:36:24.888720"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 3",
+    "description": "This is a sample description for BJP news article 3",
+    "url": "https://example.com/sample-bjp-news-3",
+    "published_at": "2025-08-12T13:36:24.888731"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 4",
+    "description": "This is a sample description for BJP news article 4",
+    "url": "https://example.com/sample-bjp-news-4",
+    "published_at": "2025-08-12T13:36:24.888743"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 5",
+    "description": "This is a sample description for BJP news article 5",
+    "url": "https://example.com/sample-bjp-news-5",
+    "published_at": "2025-08-12T13:36:24.888759"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 1",
+    "description": "This is a sample description for INC news article 1",
+    "url": "https://example.com/sample-inc-news-1",
+    "published_at": "2025-08-12T13:36:24.888777"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 2",
+    "description": "This is a sample description for INC news article 2",
+    "url": "https://example.com/sample-inc-news-2",
+    "published_at": "2025-08-12T13:36:24.888792"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 3",
+    "description": "This is a sample description for INC news article 3",
+    "url": "https://example.com/sample-inc-news-3",
+    "published_at": "2025-08-12T13:36:24.888803"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 4",
+    "description": "This is a sample description for INC news article 4",
+    "url": "https://example.com/sample-inc-news-4",
+    "published_at": "2025-08-12T13:36:24.888811"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 5",
+    "description": "This is a sample description for INC news article 5",
+    "url": "https://example.com/sample-inc-news-5",
+    "published_at": "2025-08-12T13:36:24.888822"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 1",
+    "description": "This is a sample description for AAP news article 1",
+    "url": "https://example.com/sample-aap-news-1",
+    "published_at": "2025-08-12T13:36:24.888837"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 2",
+    "description": "This is a sample description for AAP news article 2",
+    "url": "https://example.com/sample-aap-news-2",
+    "published_at": "2025-08-12T13:36:24.888846"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 3",
+    "description": "This is a sample description for AAP news article 3",
+    "url": "https://example.com/sample-aap-news-3",
+    "published_at": "2025-08-12T13:36:24.888854"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 4",
+    "description": "This is a sample description for AAP news article 4",
+    "url": "https://example.com/sample-aap-news-4",
+    "published_at": "2025-08-12T13:36:24.888861"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 5",
+    "description": "This is a sample description for AAP news article 5",
+    "url": "https://example.com/sample-aap-news-5",
+    "published_at": "2025-08-12T13:36:24.888868"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 1",
+    "description": "This is a sample description for TMC news article 1",
+    "url": "https://example.com/sample-tmc-news-1",
+    "published_at": "2025-08-12T13:36:24.888881"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 2",
+    "description": "This is a sample description for TMC news article 2",
+    "url": "https://example.com/sample-tmc-news-2",
+    "published_at": "2025-08-12T13:36:24.888888"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 3",
+    "description": "This is a sample description for TMC news article 3",
+    "url": "https://example.com/sample-tmc-news-3",
+    "published_at": "2025-08-12T13:36:24.888896"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 4",
+    "description": "This is a sample description for TMC news article 4",
+    "url": "https://example.com/sample-tmc-news-4",
+    "published_at": "2025-08-12T13:36:24.888904"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 5",
+    "description": "This is a sample description for TMC news article 5",
+    "url": "https://example.com/sample-tmc-news-5",
+    "published_at": "2025-08-12T13:36:24.888911"
+  }
+]

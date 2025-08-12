@@ -1,2 +1,12 @@
 GoogleNews
 requests
+tweepy
+python-dotenv
+pandas
+apache-airflow
+google-generativeai
+scikit-learn
+mlflow
+matplotlib
+seaborn
+joblib
