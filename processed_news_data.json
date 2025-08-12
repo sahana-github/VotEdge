@@ -1,0 +1,302 @@
+[
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 1",
+    "summary": "Sample BJP news title 1 This is a sample description for BJP news article 1",
+    "sentiment": -0.39,
+    "keywords": [
+      "democracy",
+      "policy",
+      "election",
+      "vote",
+      "politics"
+    ],
+    "url": "https://example.com/sample-bjp-news-1",
+    "published_at": "2025-08-12T13:36:24.888665"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 2",
+    "summary": "Sample BJP news title 2 This is a sample description for BJP news article 2",
+    "sentiment": -0.93,
+    "keywords": [
+      "policy",
+      "campaign",
+      "election",
+      "democracy",
+      "government"
+    ],
+    "url": "https://example.com/sample-bjp-news-2",
+    "published_at": "2025-08-12T13:36:24.888720"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 3",
+    "summary": "Sample BJP news title 3 This is a sample description for BJP news article 3",
+    "sentiment": 0.4,
+    "keywords": [
+      "democracy",
+      "campaign",
+      "government",
+      "politics",
+      "policy"
+    ],
+    "url": "https://example.com/sample-bjp-news-3",
+    "published_at": "2025-08-12T13:36:24.888731"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 4",
+    "summary": "Sample BJP news title 4 This is a sample description for BJP news article 4",
+    "sentiment": -0.34,
+    "keywords": [
+      "campaign",
+      "democracy",
+      "policy",
+      "government",
+      "vote"
+    ],
+    "url": "https://example.com/sample-bjp-news-4",
+    "published_at": "2025-08-12T13:36:24.888743"
+  },
+  {
+    "party": "BJP",
+    "title": "Sample BJP news title 5",
+    "summary": "Sample BJP news title 5 This is a sample description for BJP news article 5",
+    "sentiment": -0.47,
+    "keywords": [
+      "campaign",
+      "government",
+      "politics",
+      "vote",
+      "election"
+    ],
+    "url": "https://example.com/sample-bjp-news-5",
+    "published_at": "2025-08-12T13:36:24.888759"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 1",
+    "summary": "Sample INC news title 1 This is a sample description for INC news article 1",
+    "sentiment": -0.53,
+    "keywords": [
+      "government",
+      "campaign",
+      "democracy",
+      "politics",
+      "election"
+    ],
+    "url": "https://example.com/sample-inc-news-1",
+    "published_at": "2025-08-12T13:36:24.888777"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 2",
+    "summary": "Sample INC news title 2 This is a sample description for INC news article 2",
+    "sentiment": -0.7,
+    "keywords": [
+      "election",
+      "politics",
+      "democracy",
+      "vote",
+      "campaign"
+    ],
+    "url": "https://example.com/sample-inc-news-2",
+    "published_at": "2025-08-12T13:36:24.888792"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 3",
+    "summary": "Sample INC news title 3 This is a sample description for INC news article 3",
+    "sentiment": 0.06,
+    "keywords": [
+      "election",
+      "government",
+      "vote",
+      "campaign",
+      "politics"
+    ],
+    "url": "https://example.com/sample-inc-news-3",
+    "published_at": "2025-08-12T13:36:24.888803"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 4",
+    "summary": "Sample INC news title 4 This is a sample description for INC news article 4",
+    "sentiment": 0.88,
+    "keywords": [
+      "politics",
+      "policy",
+      "democracy",
+      "vote",
+      "campaign"
+    ],
+    "url": "https://example.com/sample-inc-news-4",
+    "published_at": "2025-08-12T13:36:24.888811"
+  },
+  {
+    "party": "INC",
+    "title": "Sample INC news title 5",
+    "summary": "Sample INC news title 5 This is a sample description for INC news article 5",
+    "sentiment": 0.4,
+    "keywords": [
+      "election",
+      "politics",
+      "vote",
+      "campaign",
+      "policy"
+    ],
+    "url": "https://example.com/sample-inc-news-5",
+    "published_at": "2025-08-12T13:36:24.888822"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 1",
+    "summary": "Sample AAP news title 1 This is a sample description for AAP news article 1",
+    "sentiment": 0.72,
+    "keywords": [
+      "policy",
+      "campaign",
+      "government",
+      "politics",
+      "election"
+    ],
+    "url": "https://example.com/sample-aap-news-1",
+    "published_at": "2025-08-12T13:36:24.888837"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 2",
+    "summary": "Sample AAP news title 2 This is a sample description for AAP news article 2",
+    "sentiment": -0.11,
+    "keywords": [
+      "politics",
+      "democracy",
+      "policy",
+      "campaign",
+      "election"
+    ],
+    "url": "https://example.com/sample-aap-news-2",
+    "published_at": "2025-08-12T13:36:24.888846"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 3",
+    "summary": "Sample AAP news title 3 This is a sample description for AAP news article 3",
+    "sentiment": -0.33,
+    "keywords": [
+      "democracy",
+      "election",
+      "vote",
+      "policy",
+      "politics"
+    ],
+    "url": "https://example.com/sample-aap-news-3",
+    "published_at": "2025-08-12T13:36:24.888854"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 4",
+    "summary": "Sample AAP news title 4 This is a sample description for AAP news article 4",
+    "sentiment": 0.93,
+    "keywords": [
+      "policy",
+      "government",
+      "election",
+      "campaign",
+      "vote"
+    ],
+    "url": "https://example.com/sample-aap-news-4",
+    "published_at": "2025-08-12T13:36:24.888861"
+  },
+  {
+    "party": "AAP",
+    "title": "Sample AAP news title 5",
+    "summary": "Sample AAP news title 5 This is a sample description for AAP news article 5",
+    "sentiment": 0.19,
+    "keywords": [
+      "campaign",
+      "politics",
+      "vote",
+      "policy",
+      "election"
+    ],
+    "url": "https://example.com/sample-aap-news-5",
+    "published_at": "2025-08-12T13:36:24.888868"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 1",
+    "summary": "Sample TMC news title 1 This is a sample description for TMC news article 1",
+    "sentiment": -0.96,
+    "keywords": [
+      "democracy",
+      "government",
+      "vote",
+      "politics",
+      "election"
+    ],
+    "url": "https://example.com/sample-tmc-news-1",
+    "published_at": "2025-08-12T13:36:24.888881"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 2",
+    "summary": "Sample TMC news title 2 This is a sample description for TMC news article 2",
+    "sentiment": -0.43,
+    "keywords": [
+      "campaign",
+      "election",
+      "democracy",
+      "government",
+      "vote"
+    ],
+    "url": "https://example.com/sample-tmc-news-2",
+    "published_at": "2025-08-12T13:36:24.888888"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 3",
+    "summary": "Sample TMC news title 3 This is a sample description for TMC news article 3",
+    "sentiment": -0.39,
+    "keywords": [
+      "government",
+      "campaign",
+      "vote",
+      "democracy",
+      "politics"
+    ],
+    "url": "https://example.com/sample-tmc-news-3",
+    "published_at": "2025-08-12T13:36:24.888896"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 4",
+    "summary": "Sample TMC news title 4 This is a sample description for TMC news article 4",
+    "sentiment": -0.74,
+    "keywords": [
+      "government",
+      "politics",
+      "campaign",
+      "democracy",
+      "policy"
+    ],
+    "url": "https://example.com/sample-tmc-news-4",
+    "published_at": "2025-08-12T13:36:24.888904"
+  },
+  {
+    "party": "TMC",
+    "title": "Sample TMC news title 5",
+    "summary": "Sample TMC news title 5 This is a sample description for TMC news article 5",
+    "sentiment": -0.74,
+    "keywords": [
+      "election",
+      "government",
+      "vote",
+      "campaign",
+      "democracy"
+    ],
+    "url": "https://example.com/sample-tmc-news-5",
+    "published_at": "2025-08-12T13:36:24.888911"
+  }
+]

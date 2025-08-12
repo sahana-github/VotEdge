@@ -1,0 +1,22 @@
+artifact_path: file:///home/x/projects/s_pro/VotEdge/mlruns/341828246241570911/models/m-f50f5103d6a645a6b444c89cd9f8008f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-f50f5103d6a645a6b444c89cd9f8008f
+model_size_bytes: 49737
+model_uuid: m-f50f5103d6a645a6b444c89cd9f8008f
+prompts: null
+run_id: 84a207c35ffe4f5ab2e738719216472f
+utc_time_created: '2025-08-12 08:11:37.482041'

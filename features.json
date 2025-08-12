@@ -1,0 +1,64 @@
+{
+  "party_sentiments": {
+    "AAP": {
+      "news_sentiment": 0.28,
+      "tweet_sentiment": 0.27499999999999997
+    },
+    "BJP": {
+      "news_sentiment": -0.346,
+      "tweet_sentiment": -0.20777777777777778
+    },
+    "INC": {
+      "news_sentiment": 0.022,
+      "tweet_sentiment": -0.14444444444444446
+    },
+    "TMC": {
+      "news_sentiment": -0.6519999999999999,
+      "tweet_sentiment": -0.2383333333333333
+    }
+  },
+  "trending_keywords": {
+    "politics": 42,
+    "election": 38,
+    "campaign": 38,
+    "democracy": 37,
+    "vote": 34,
+    "policy": 31,
+    "government": 30
+  },
+  "social_media_metrics": {
+    "BJP": {
+      "total_tweets": 9,
+      "total_retweets": 180,
+      "total_likes": 450,
+      "total_replies": 90,
+      "total_quotes": 36,
+      "engagement_rate": 84.0
+    },
+    "INC": {
+      "total_tweets": 9,
+      "total_retweets": 180,
+      "total_likes": 450,
+      "total_replies": 90,
+      "total_quotes": 36,
+      "engagement_rate": 84.0
+    },
+    "AAP": {
+      "total_tweets": 6,
+      "total_retweets": 120,
+      "total_likes": 300,
+      "total_replies": 60,
+      "total_quotes": 24,
+      "engagement_rate": 84.0
+    },
+    "TMC": {
+      "total_tweets": 6,
+      "total_retweets": 120,
+      "total_likes": 300,
+      "total_replies": 60,
+      "total_quotes": 24,
+      "engagement_rate": 84.0
+    }
+  },
+  "processed_at": "2025-08-12T13:39:56.761690"
+}

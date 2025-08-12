@@ -1,0 +1,340 @@
+{
+  "BJP": [
+    {
+      "party": "BJP",
+      "username": "narendramodi",
+      "tweet_id": "sample_tweet_id_BJP_narendramodi_0",
+      "text": "This is a sample tweet from narendramodi about BJP - tweet #1",
+      "created_at": "2025-08-12T13:36:24.888930",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "BJP",
+      "username": "narendramodi",
+      "tweet_id": "sample_tweet_id_BJP_narendramodi_1",
+      "text": "This is a sample tweet from narendramodi about BJP - tweet #2",
+      "created_at": "2025-08-12T13:36:24.888940",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "BJP",
+      "username": "narendramodi",
+      "tweet_id": "sample_tweet_id_BJP_narendramodi_2",
+      "text": "This is a sample tweet from narendramodi about BJP - tweet #3",
+      "created_at": "2025-08-12T13:36:24.888946",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "BJP",
+      "username": "AmitShah",
+      "tweet_id": "sample_tweet_id_BJP_AmitShah_0",
+      "text": "This is a sample tweet from AmitShah about BJP - tweet #1",
+      "created_at": "2025-08-12T13:36:24.888956",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "BJP",
+      "username": "AmitShah",
+      "tweet_id": "sample_tweet_id_BJP_AmitShah_1",
+      "text": "This is a sample tweet from AmitShah about BJP - tweet #2",
+      "created_at": "2025-08-12T13:36:24.888963",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "BJP",
+      "username": "AmitShah",
+      "tweet_id": "sample_tweet_id_BJP_AmitShah_2",
+      "text": "This is a sample tweet from AmitShah about BJP - tweet #3",
+      "created_at": "2025-08-12T13:36:24.888972",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "BJP",
+      "username": "BJP4India",
+      "tweet_id": "sample_tweet_id_BJP_BJP4India_0",
+      "text": "This is a sample tweet from BJP4India about BJP - tweet #1",
+      "created_at": "2025-08-12T13:36:24.888982",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "BJP",
+      "username": "BJP4India",
+      "tweet_id": "sample_tweet_id_BJP_BJP4India_1",
+      "text": "This is a sample tweet from BJP4India about BJP - tweet #2",
+      "created_at": "2025-08-12T13:36:24.888992",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "BJP",
+      "username": "BJP4India",
+      "tweet_id": "sample_tweet_id_BJP_BJP4India_2",
+      "text": "This is a sample tweet from BJP4India about BJP - tweet #3",
+      "created_at": "2025-08-12T13:36:24.888999",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    }
+  ],
+  "INC": [
+    {
+      "party": "INC",
+      "username": "RahulGandhi",
+      "tweet_id": "sample_tweet_id_INC_RahulGandhi_0",
+      "text": "This is a sample tweet from RahulGandhi about INC - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889013",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "INC",
+      "username": "RahulGandhi",
+      "tweet_id": "sample_tweet_id_INC_RahulGandhi_1",
+      "text": "This is a sample tweet from RahulGandhi about INC - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889021",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "INC",
+      "username": "RahulGandhi",
+      "tweet_id": "sample_tweet_id_INC_RahulGandhi_2",
+      "text": "This is a sample tweet from RahulGandhi about INC - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889028",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "INC",
+      "username": "INCIndia",
+      "tweet_id": "sample_tweet_id_INC_INCIndia_0",
+      "text": "This is a sample tweet from INCIndia about INC - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889035",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "INC",
+      "username": "INCIndia",
+      "tweet_id": "sample_tweet_id_INC_INCIndia_1",
+      "text": "This is a sample tweet from INCIndia about INC - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889044",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "INC",
+      "username": "INCIndia",
+      "tweet_id": "sample_tweet_id_INC_INCIndia_2",
+      "text": "This is a sample tweet from INCIndia about INC - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889052",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "INC",
+      "username": "priyankagandhi",
+      "tweet_id": "sample_tweet_id_INC_priyankagandhi_0",
+      "text": "This is a sample tweet from priyankagandhi about INC - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889060",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "INC",
+      "username": "priyankagandhi",
+      "tweet_id": "sample_tweet_id_INC_priyankagandhi_1",
+      "text": "This is a sample tweet from priyankagandhi about INC - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889067",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "INC",
+      "username": "priyankagandhi",
+      "tweet_id": "sample_tweet_id_INC_priyankagandhi_2",
+      "text": "This is a sample tweet from priyankagandhi about INC - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889073",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    }
+  ],
+  "AAP": [
+    {
+      "party": "AAP",
+      "username": "ArvindKejriwal",
+      "tweet_id": "sample_tweet_id_AAP_ArvindKejriwal_0",
+      "text": "This is a sample tweet from ArvindKejriwal about AAP - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889085",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "AAP",
+      "username": "ArvindKejriwal",
+      "tweet_id": "sample_tweet_id_AAP_ArvindKejriwal_1",
+      "text": "This is a sample tweet from ArvindKejriwal about AAP - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889093",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "AAP",
+      "username": "ArvindKejriwal",
+      "tweet_id": "sample_tweet_id_AAP_ArvindKejriwal_2",
+      "text": "This is a sample tweet from ArvindKejriwal about AAP - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889100",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "AAP",
+      "username": "AamAadmiParty",
+      "tweet_id": "sample_tweet_id_AAP_AamAadmiParty_0",
+      "text": "This is a sample tweet from AamAadmiParty about AAP - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889108",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "AAP",
+      "username": "AamAadmiParty",
+      "tweet_id": "sample_tweet_id_AAP_AamAadmiParty_1",
+      "text": "This is a sample tweet from AamAadmiParty about AAP - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889115",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "AAP",
+      "username": "AamAadmiParty",
+      "tweet_id": "sample_tweet_id_AAP_AamAadmiParty_2",
+      "text": "This is a sample tweet from AamAadmiParty about AAP - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889122",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    }
+  ],
+  "TMC": [
+    {
+      "party": "TMC",
+      "username": "MamataOfficial",
+      "tweet_id": "sample_tweet_id_TMC_MamataOfficial_0",
+      "text": "This is a sample tweet from MamataOfficial about TMC - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889150",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "TMC",
+      "username": "MamataOfficial",
+      "tweet_id": "sample_tweet_id_TMC_MamataOfficial_1",
+      "text": "This is a sample tweet from MamataOfficial about TMC - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889161",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "TMC",
+      "username": "MamataOfficial",
+      "tweet_id": "sample_tweet_id_TMC_MamataOfficial_2",
+      "text": "This is a sample tweet from MamataOfficial about TMC - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889169",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    },
+    {
+      "party": "TMC",
+      "username": "AITCofficial",
+      "tweet_id": "sample_tweet_id_TMC_AITCofficial_0",
+      "text": "This is a sample tweet from AITCofficial about TMC - tweet #1",
+      "created_at": "2025-08-12T13:36:24.889179",
+      "retweet_count": 10,
+      "like_count": 25,
+      "reply_count": 5,
+      "quote_count": 2
+    },
+    {
+      "party": "TMC",
+      "username": "AITCofficial",
+      "tweet_id": "sample_tweet_id_TMC_AITCofficial_1",
+      "text": "This is a sample tweet from AITCofficial about TMC - tweet #2",
+      "created_at": "2025-08-12T13:36:24.889186",
+      "retweet_count": 20,
+      "like_count": 50,
+      "reply_count": 10,
+      "quote_count": 4
+    },
+    {
+      "party": "TMC",
+      "username": "AITCofficial",
+      "tweet_id": "sample_tweet_id_TMC_AITCofficial_2",
+      "text": "This is a sample tweet from AITCofficial about TMC - tweet #3",
+      "created_at": "2025-08-12T13:36:24.889199",
+      "retweet_count": 30,
+      "like_count": 75,
+      "reply_count": 15,
+      "quote_count": 6
+    }
+  ]
+}
