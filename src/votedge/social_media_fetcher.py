@@ -8,7 +8,8 @@ def scrape_last_10_tweets_by_clicking(username: str) -> list:
     all_tweet_data = []
 
     with sync_playwright() as pw:
-        browser = pw.chromium.launch(headless=False)
+        # Run in headless mode for automated environments
+        browser = pw.chromium.launch(headless=True)
         context = browser.new_context(viewport={"width": 1920, "height": 1080})
         page = context.new_page()
 
@@ -52,7 +53,14 @@ def scrape_last_10_tweets_by_clicking(username: str) -> list:
                     data = xhr.json()
                     result = data.get('data', {}).get('tweetResult', {}).get('result')
                     if result:
-                        all_tweet_data.append(result)
+                        # Extract just the tweet text instead of the entire JSON
+                        tweet_text = result.get('legacy', {}).get('full_text', '')
+                        if tweet_text:
+                            all_tweet_data.append({
+                                'text': tweet_text,
+                                'user': result.get('core', {}).get('user_results', {}).get('result', {}).get('legacy', {}).get('screen_name', username),
+                                'created_at': result.get('legacy', {}).get('created_at', '')
+                            })
                         break  # Found the main tweet data, move to the next link
                 except Exception as e:
                     print(f"Could not parse JSON from XHR call: {e}")
