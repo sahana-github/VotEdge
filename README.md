@@ -84,6 +84,8 @@ You can modify this file to add more parties or accounts.
 - Implement retry mechanisms for failed API requests
 - Add better error messages for users when scraping fails
 
+
+
 ### Data Visualization
 - Create charts and graphs for sentiment analysis results
 - Implement trend visualization over time
@@ -103,3 +105,15 @@ You can modify this file to add more parties or accounts.
 - Schedule automated runs for regular sentiment tracking
 - Add email notification support for significant changes
 
+### Update
+Implemented a logging mechanism using Python’s logging module. Now, all key actions—like fetching news, scraping tweets, performing sentiment analysis, and saving results—are recorded in logs/votedge.log. Warnings and errors during execution (e.g., failed tweet scrapes or empty news results) are also logged, making it easier to debug and track the program’s workflow.
+
+Data Visualization Added
+
+Implemented charts and graphs for sentiment analysis results.
+
+Added trend visualization over time to track sentiment changes.
+
+Added comparison charts between different political parties.
+
+Charts are generated automatically after analysis and help in quickly understanding public opinion.

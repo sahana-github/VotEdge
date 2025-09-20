@@ -1,0 +1,252 @@
+{
+  "party": "INC",
+  "generated_at": "2025-09-20T14:03:07.805284",
+  "news_analysis": {
+    "total": 30,
+    "positive": 2,
+    "negative": 1,
+    "neutral": 27,
+    "average_polarity": -0.007121212121212122,
+    "details": [
+      {
+        "text": "Fiduciary Alliance LLC Invests $220,000 in Regions Financial Corporation $RF",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Kosmos Energy Ltd. $KOS Shares Sold by Harbor Capital Advisors Inc.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Rhumbline Advisers Sells 16,015 Shares of B&G Foods, Inc. $BGS",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Has $473,000 Stock Holdings in Nasdaq, Inc. $NDAQ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Takaichi Touts Tax Cuts, Cash Payouts in Japan Ruling Party Race",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Reduces Stock Position in DexCom, Inc. $DXCM",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Trims Stock Holdings in The Bank of New York Mellon Corporation $BK",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Has $256,000 Stock Holdings in JD.com, Inc. $JD",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Comerica Incorporated $CMA Shares Sold by Gateway Investment Advisers LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "AMETEK, Inc. $AME Shares Sold by Gateway Investment Advisers LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Williams Companies, Inc. (The) $WMB Stock Holdings Lessened by Gateway Investment Advisers LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Acquires 2,419 Shares of Skechers U.S.A., Inc. $SKX",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Lowers Stock Holdings in Charter Communications, Inc. $CHTR",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Voya Investment Management LLC Acquires 432 Shares of Dollar General Corporation $DG",
+        "sentiment": "Positive",
+        "polarity": 0.05000000000000002
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Grows Stock Position in Cenovus Energy Inc $CVE",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Acquires 459 Shares of The Clorox Company $CLX",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Cuts Stock Position in Equinix, Inc. $EQIX",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Acquires 1,892 Shares of Manhattan Associates, Inc. $MANH",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Fiduciary Alliance LLC Purchases 383 Shares of DuPont de Nemours, Inc. $DD",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Sells 39,225 Shares of DraftKings Inc. $DKNG",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "CBRE Group, Inc. $CBRE Shares Sold by Gateway Investment Advisers LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Has $641,000 Position in Voya Financial, Inc. $VOYA",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Canadian National Railway Company $CNI Stock Holdings Decreased by Gateway Investment Advisers LLC",
+        "sentiment": "Negative",
+        "polarity": -0.4
+      },
+      {
+        "text": "Union Pacific Corporation $UNP Stake Lessened by Gateway Investment Advisers LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Sells 930 Shares of Gentex Corporation $GNTX",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Reduces Stock Holdings in Stryker Corporation $SYK",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Parallel Advisors LLC Reduces Holdings in Deckers Outdoor Corporation $DECK",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Increases Stake in NetApp, Inc. $NTAP",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Gateway Investment Advisers LLC Has $573,000 Position in Interpublic Group of Companies, Inc. (The) $IPG",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "The Travelers Companies, Inc. $TRV Shares Acquired by Fiduciary Alliance LLC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 15,
+    "positive": 5,
+    "negative": 1,
+    "neutral": 9,
+    "average_polarity": 0.06033189033189034,
+    "details": [
+      {
+        "text": "The passing of Zubeen Garg is a terrible tragedy. His voice defined a generation, and his talent was truly unmatched.\n\nHe overcame personal tragedies to reshape the landscape of Assamese music. His perseverance and courage have left an enduring mark.\n\nHe will live on in our hearts and minds forever.",
+        "sentiment": "Negative",
+        "polarity": -0.2159090909090909
+      },
+      {
+        "text": "सुबह 4 बजे उठो,\n36 सेकंड में 2 वोटर मिटाओ, \nफिर सो जाओ - ऐसे भी हुई वोट चोरी!\n\nचुनाव का चौकीदार जागता रहा, चोरी देखता रहा, चोरों को बचाता रहा।\n\n#VoteChoriFactory",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश के Yuva \nदेश के Students \nदेश की Gen Z\nसंविधान को बचाएंगे, लोकतंत्र की रक्षा करेंगे और वोट चोरी को रोकेंगे।\n\nमैं उनके साथ हमेशा खड़ा हूं। \n\nजय हिंद!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "धन्यवाद हिंदुस्तान ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": " INDIA ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद की सेना ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "यूपी की जनता ने कमाल कर दिया।\n\nआपका बहुत-बहुत धन्यवाद  \n\n: \n@RahulGandhi\n जी",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Two Faces ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Meeting many of the survivors of the Chooralmala and Mundakkai landslide brought home the immense suffering they are still facing. \n\nWe discussed each different issue in depth, they requested me to visit the site once more so we went there the next day and took stock, then along with some of their representatives, I met the DC and we went through all pending matters one by one. \n\nI am happy that some of the matters are resolvable and with the UDF organisation and the district authorities we should be able to show some progress regarding these in the near future. Others will need more time and policy interventions which I will take up with the concerned ministries and raise in parliament. \n\nNo effort, no matter how well meaning, can give back what has been lost, but together we can try our best to make life more liveable for those who have borne so much pain.",
+        "sentiment": "Positive",
+        "polarity": 0.3285714285714286
+      },
+      {
+        "text": "My thoughts and prayers are with the family, fans and people of Assam as they mourn the loss of Zubeen Garg, a musical icon.\n\nHis melodies will forever echo in our hearts.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Visiting the Cholanaikkar  unnathi yesterday taught me so much…their traditions and beliefs are more progressive than many of our own. \n\nLiving in harmony with nature, respecting each other and abiding by egalitarian social rules in which men and women are equal decision makers is their way of life. \n\nWe also discussed the many problems they are facing and met the forest and administrative authorities with them so that we could help find some solutions.",
+        "sentiment": "Positive",
+        "polarity": 0.28690476190476194
+      },
+      {
+        "text": "कर्नाटक की आलंद विधानसभा में बड़े पैमाने पर वोटर्स का नाम काटने की कोशिश की गई। हमारे प्रत्याशी की शिकायत पर चुनाव आयोग के स्थानीय अधिकारी ने FIR दर्ज कराई थी। \n\nजब चुनाव आयोग खुद मान चुका है कि गड़बड़ी हो रही थी, उनके अधिकारी ने ही FIR दर्ज कराई तो जांच क्यों रोकी जा रही है? \n\nकर्नाटक CID ने 18 महीने में 18 पत्र लिखे लेकिन चुनाव आयोग ने कोई सबूत मुहैया क्यों नहीं कराए? \n\nCID को जांच के लिए IP एड्रेस, डिवाइस पोर्ट्स, OTP वगैरह की डिटेल क्यों नहीं दी जा रही है? \n\nचुनाव आयोग जांच को बाधित करके किसे और क्यों बचाना चाहता है?",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Aland, Karnataka\n\nInvestigation reveals: 6,018 applications impersonating voters were auto-filed using software and mobile numbers from outside Karnataka. These deletions specifically targeted Congress voters and booths where the party was winning.\n\n: LoP Shri \n@RahulGandhi",
+        "sentiment": "Positive",
+        "polarity": 0.25
+      },
+      {
+        "text": "LIVE: Special press briefing by LoP Shri \n@RahulGandhi\n at Indira Bhawan | New Delhi.",
+        "sentiment": "Positive",
+        "polarity": 0.20995670995670998
+      },
+      {
+        "text": "Visited the proposed Padinjarathara–Poozhithodu road site at Kottiyamvayal, along with the District Collector, District Forest Officer and PWD Executive Engineers.\n\nThis new road would make a big difference by providing an alternate route for the Thamarassery ghat road, which would improve the connectivity of the Wayanad district.\n\n Wayanad, Kerala",
+        "sentiment": "Positive",
+        "polarity": 0.04545454545454545
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": -0.007121212121212122,
+    "tweets_sentiment": 0.06033189033189034,
+    "combined_sentiment": 0.02660533910533911
+  }
+}
