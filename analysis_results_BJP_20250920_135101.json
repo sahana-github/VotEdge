@@ -1,0 +1,287 @@
+{
+  "party": "BJP",
+  "generated_at": "2025-09-20T13:51:01.500942",
+  "news_analysis": {
+    "total": 30,
+    "positive": 8,
+    "negative": 5,
+    "neutral": 17,
+    "average_polarity": 0.03744949494949495,
+    "details": [
+      {
+        "text": "NCP still in Mahayuti due to mutual respect, commitment to Maharashtra's progress: Ajit Pawar",
+        "sentiment": "Negative",
+        "polarity": -0.125
+      },
+      {
+        "text": "'No caste in Christianity': Backlash over 52 caste listing of Christians in Karnataka caste survey; BJP, activists call it misleading",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Kerala police to seek US help in probe into BJP leader's FB post on Oct'23 twin blasts",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Congress must be realistic, RJD accommodative in seat-sharing talks for Bihar polls: Dipankar Bhattacharya",
+        "sentiment": "Positive",
+        "polarity": 0.16666666666666666
+      },
+      {
+        "text": "India regulator rejects US firm's fraud claims against Adani Group",
+        "sentiment": "Negative",
+        "polarity": -0.2
+      },
+      {
+        "text": "Decision on Karnataka caste census only after consulting CM Siddaramaiah: Shivakumar",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "EU’s New India Strategy Overlooks Modi’s Repression",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      },
+      {
+        "text": "'My restaurant did Rs 50 business': Locals tell Kangana Ranaut 'you are late, go back'; BJP MP says she is not queen of England",
+        "sentiment": "Negative",
+        "polarity": -0.15
+      },
+      {
+        "text": "How Karnataka voter deletions flagged by Rahul Gandhi were caught: An alert BLO, a veteran leader’s grassroots links",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Maratha quota move lands Fadnavis govt in Catch-22, opens floodgates of demands",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Robo Shankar death reason: How the popular actor-comedian passed away",
+        "sentiment": "Positive",
+        "polarity": 0.6
+      },
+      {
+        "text": "MP Baluni narrowly escapes landslide",
+        "sentiment": "Negative",
+        "polarity": -0.2
+      },
+      {
+        "text": "In Kolkata, Sitharaman links ‘Bengal influence’ to GST 2.0 launch date",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP neta's son fakes 'death' to dodge Rs 1.4 crore loan, held",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Assam Congress files police case against BJP over 'AI videos'",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Rahul Gandhi wants to create Nepal-like situation in India, alleges BJP",
+        "sentiment": "Positive",
+        "polarity": 0.2
+      },
+      {
+        "text": "Infiltration will be rampant if INDIA bloc comes to power in Bihar: Amit Shah",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Nearly 15 lakh new voters in Maharashtra since assembly polls, but no objection from parties",
+        "sentiment": "Positive",
+        "polarity": 0.11818181818181818
+      },
+      {
+        "text": "Rahul Gandhi has accepted defeat in Bihar: Jagdambika Pal slams Congress over 'vote chori' claims",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Opposition in Bihar trying to encourage infiltration, alleges Home Minister Amit Shah",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "PMO acts on pharma MSMEs 'crisis call'",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Congress files police complaint against BJP over alleged AI-generated videos in Assam",
+        "sentiment": "Negative",
+        "polarity": -0.2
+      },
+      {
+        "text": "Liquor 'scam': Chhattisgarh ACB/EOW arrests former state excise commissioner Niranjan Das",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Most sectors express intentions to pass on GST rate cut benefits to customers: FM",
+        "sentiment": "Positive",
+        "polarity": 0.5
+      },
+      {
+        "text": "India Praises ‘Positive’ and ‘Forward-Looking’ Trade Talks with U.S.",
+        "sentiment": "Positive",
+        "polarity": 0.22727272727272727
+      },
+      {
+        "text": "Jharkhand now a haven for terrorists, claims BJP national general secretary",
+        "sentiment": "Positive",
+        "polarity": 0.05000000000000002
+      },
+      {
+        "text": "Verification of EVMs for Chenani assembly constituency begins in Udhampur",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Rahul Gandhi alleges voter deletions in Karnataka; ECI rejects claims as “baseless”",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "My Restaurant Made Rs 50, I Pay Rs 15 Lakh In Salaries: Kangana Ranaut Tells Flood-Affected People",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "SIR to remove impurities from Bihar voters' list, Rahul-Lalu want to protect infiltrators: Amit Shah",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 22,
+    "positive": 5,
+    "negative": 0,
+    "neutral": 17,
+    "average_polarity": 0.08462878787878787,
+    "details": [
+      {
+        "text": "India's ports are the backbone of our nation's rise as a global maritime powerhouse. Addressing the 'Samudra Se Samriddhi' programme in Bhavnagar. https://t.co/T7k56n99Gd",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Today, 20th September is an important day for India’s maritime sector and our quest towards self-reliance. At around 10:30 AM, will take part in the  ‘Samudra se Samriddhi’ programme in Bhavnagar. Works worth over Rs. 34,200 crores will be inaugurated or their foundation stones",
+        "sentiment": "Positive",
+        "polarity": 0.2333333333333333
+      },
+      {
+        "text": "জনপ্ৰিয় কণ্ঠশিল্পী জুবিন গাৰ্গৰ আকস্মিক মৃত্যুত স্তম্ভিত হৈ পৰিছো। সংগীতৰ ক্ষেত্ৰখনলৈ আগবঢ়োৱা চহকী অৱদানৰ বাবে তেওঁ স্মৰণীয় হৈ থাকিব। তেওঁৰ গীত সকলো শ্ৰেণীৰ মানুহৰ মাজত অতি জনপ্ৰিয় আছিল। তেওঁৰ পৰিয়াল আৰু অনুৰাগীলৈ গভীৰ সমবেদনা জ্ঞাপন কৰিছো। ঔম শান্তি।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Shocked by the sudden demise of popular singer Zubeen Garg. He will be remembered for his rich contribution to music. His renditions were very popular among people across all walks of life. Condolences to his family and admirers. Om Shanti.",
+        "sentiment": "Positive",
+        "polarity": 0.21100000000000002
+      },
+      {
+        "text": "This morning, planted a Kadamb sapling at 7, Lok Kalyan Marg, which was gifted by His Majesty King Charles III. He is very passionate about the environment and sustainability, a topic which features in our discussions too.\n\n@RoyalFamily https://t.co/WtkjMVHqVz",
+        "sentiment": "Positive",
+        "polarity": 0.2175
+      },
+      {
+        "text": "ਸਿੱਖ ਸੰਗਤ ਨਾਲ ਇੱਕ ਮੀਟਿੰਗ ਵਿੱਚ, ਪ੍ਰਸਿੱਧ ਗਾਇਕਾ ਹਰਸ਼ਦੀਪ ਕੌਰ ਨੇ ਮੂਲ ਮੰਤਰ ਦੀ ਸੁੰਦਰ ਪੇਸ਼ਕਾਰੀ ਦਿੱਤੀ...\n\n@HarshdeepKaur https://t.co/hrMGzC1R1W",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "ਮੈਨੂੰ ਸਿੱਖ ਵਫ਼ਦ ਦੇ ਪ੍ਰਤਿਸ਼ਠਾਵਾਨ ਅਤੇ ਕੁਸ਼ਲ ਮੈਂਬਰਾਂ ਦਾ ਸਵਾਗਤ ਕਰਦੇ ਹੋਏ ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਈ, ਜਿਨ੍ਹਾਂ ਨੇ ਸ਼੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਅਤੇ ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ ਦੇ ਅਤਿ ਪਵਿੱਤਰ ਅਤੇ ਅਨਮੋਲ ਪਵਿੱਤਰ 'ਜੋੜੇ ਸਾਹਿਬ' ਦੀ ਸੁਰੱਖਿਆ ਅਤੇ ਉੱਚਿਤ ਪ੍ਰਦਰਸ਼ਨੀ ਸਬੰਧੀ ਆਪਣੀਆਂ ਸਿਫ਼ਾਰਸ਼ਾਂ ਸੌਂਪੀਆਂ।\n\n'ਜੋੜੇ ਸਾਹਿਬ' ਜਿੰਨੇ ਮਹੱਤਵਪੂਰਨ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "A pleasure speaking with Prime Minister Mitsotakis today. Grateful for his warm birthday wishes. India-Greece Strategic Partnership continues to grow across trade, investment, connectivity, defence, security and people-to-people linkages. We reaffirmed our commitment to early",
+        "sentiment": "Positive",
+        "polarity": 0.35
+      },
+      {
+        "text": "At the meeting with the Sikh Sangat, noted singer Harshdeep Kaur sang a beautiful rendition of the Mool Mantra...\n\n@HarshdeepKaur https://t.co/E6vXmLmGuS",
+        "sentiment": "Positive",
+        "polarity": 0.85
+      },
+      {
+        "text": "India's ports are the backbone of our nation's rise as a global maritime powerhouse. Addressing the 'Samudra Se Samriddhi' programme in Bhavnagar. https://t.co/T7k56n99Gd",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "पंडित श्रीराम शर्मा आचार्य जी की जयंती पर उन्हें नमन करता हूँ। आचार्य जी ने विज्ञान और अध्यात्म के बीच सामंजस्य बनाया और ‘अखिल विश्व गायत्री परिवार’ की स्थापना से गायत्री मंत्र पर आधारित साधना को विस्तार दिया। उन्होंने शास्त्रों के ज्ञान को सरल भाषा में आम जन के लिए सुलभ बनाया। https://t.co/vNwWnYVejy",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "नक्सलवाद से मुक्ति और शांति की ओर अग्रसर बस्तर अपने पर्व-त्योहार धूमधाम से मना रहा है। आदिवासी संस्कृति और विरासत का प्रमाण 75 दिनों तक मनाया जाने वाला बस्तर दशहरा के ‘मुरिया दरबार’ में आने का निमंत्रण मिला। इस कार्यक्रम में शामिल होने के लिए उत्सुक हूँ।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "विपक्ष किसी भी संवैधानिक मंच की जगह रोड पर डिबेट करना चाहता है, इसलिए जनता ने उन्हें रोड पर ही रखा है। https://t.co/FkxXgYNHUs",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश के 25 करोड़ लोगों को गरीबी रेखा से बाहर निकाल कर मोदी जी ने 'गरीबी हटाओ' के राजनीतिक नारे को जमीन पर उतारने का काम किया। https://t.co/rH2muXcton",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Next Gen. GST लाकर आजाद भारत के इतिहास में टैक्स में सबसे बड़ी कटौती मोदी जी ने ही की। https://t.co/AAlVZEvbS0",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मोदी जी ने अंतरराष्ट्रीय संबंधों में भी ऐसे रिश्ते बनाए, जिनसे देश को इतना लाभ हुआ, जितना आज़ादी के बाद कभी नहीं हुआ था। https://t.co/kzlVoMIHUw",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "पीएम @narendramodi के जन्मदिन पर दें पर्सनलाइज्ड AI Shubhkamna Reel से संदेश। अपने नाम, पेशे के साथ बताएं उनकी प्रेरणाओं को। अभी शेयर करें।\n\nनमो ऐप पर हिस्सा लें: https://t.co/9J8spARcS2   \n\n#HappyBdayPMModi \n#SevaParv https://t.co/UIU8cvyBBG",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद https://t.co/Wdjb5xarf6",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद की सेना... 🇮🇳 https://t.co/DaKvLfJW47",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मैं, नरेंद्र दामोदरदास मोदी…\n\n#ModiAgain https://t.co/6gp5NVSmwq",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Strengthening international cooperation like never before! https://t.co/CaRng272AT",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मेरी काशी! https://t.co/i17JoCWSXl",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": 0.03744949494949495,
+    "tweets_sentiment": 0.08462878787878787,
+    "combined_sentiment": 0.06103914141414141
+  }
+}

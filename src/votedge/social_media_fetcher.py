@@ -1,77 +1,50 @@
 from playwright.sync_api import sync_playwright
+from votedge.logger import logger
+import time
 
-def scrape_last_10_tweets_by_clicking(username: str) -> list:
-    """
-    Scrape the last 10 tweets from a user's profile on X.com by clicking on each post
-    and scraping the individual tweet page.
-    """
+def scrape_last_10_tweets_by_clicking(username: str, retries=3, delay=2) -> list:
     all_tweet_data = []
 
-    with sync_playwright() as pw:
-        # Run in headless mode for automated environments
-        browser = pw.chromium.launch(headless=True)
-        context = browser.new_context(viewport={"width": 1920, "height": 1080})
-        page = context.new_page()
+    for attempt in range(1, retries + 1):
+        try:
+            with sync_playwright() as pw:
+                browser = pw.chromium.launch(headless=True)
+                context = browser.new_context(viewport={"width": 1920, "height": 1080})
+                page = context.new_page()
+                profile_url = f"https://x.com/{username}"
+                page.goto(profile_url)
+                page.wait_for_selector("[data-testid='tweet']")
 
-        # Navigate to the user's profile page
-        profile_url = f"https://x.com/{username}"
-        page.goto(profile_url)
-        page.wait_for_selector("[data-testid='tweet']")
+                # Get all tweets and take first 10
+                tweet_elements = page.locator("[data-testid='tweet']").all()[:10]
 
-        # Get all tweet elements and find their links
-        tweet_elements = page.locator("[data-testid='tweet']").all()
-        tweet_links = []
-        for tweet_element in tweet_elements[:10]: # Take only the first 10 tweets displayed
-            try:
-                # Find the link within the tweet element
-                link = tweet_element.locator("a[href*='/status/']").first.get_attribute("href")
-                if link:
-                    # Construct the full URL
-                    full_url = f"https://x.com{link}"
-                    tweet_links.append(full_url)
-            except Exception as e:
-                print(f"Could not get link from tweet element: {e}")
+                for tweet_element in tweet_elements:
+                    try:
+                        # Safe way to get tweet link
+                        link_el = tweet_element.locator("a[href*='/status/']").first
+                        link = link_el.get_attribute("href") if link_el else None
+                        if link:
+                            full_url = f"https://x.com{link}"
+                            new_page = context.new_page()
+                            new_page.goto(full_url)
+                            new_page.wait_for_selector("[data-testid='tweet']")
+                            
+                            # Get first matching tweet text to avoid strict mode violation
+                            tweet_text_elements = new_page.locator("[data-testid='tweetText']").all()
+                            if tweet_text_elements:
+                                text = tweet_text_elements[0].inner_text()
+                                all_tweet_data.append({'user': username, 'text': text})
+                            new_page.close()
+                    except Exception as e:
+                        logger.warning(f"Failed to scrape one tweet for @{username}: {e}")
 
-        # Use a new context for each tweet to ensure clean scraping
-        for link in tweet_links:
-            _xhr_calls = []
-            
-            def intercept_response(response):
-                if response.request.resource_type == "xhr":
-                    _xhr_calls.append(response)
+                browser.close()
+                logger.info(f"Fetched {len(all_tweet_data)} tweets for @{username}")
+                return all_tweet_data
 
-            new_page = context.new_page()
-            new_page.on("response", intercept_response)
-            new_page.goto(link)
-            new_page.wait_for_selector("[data-testid='tweet']")
+        except Exception as e:
+            logger.warning(f"Attempt {attempt} failed for @{username}: {e}")
+            time.sleep(delay)
 
-            # Find the tweet-related XHR call
-            tweet_calls = [f for f in _xhr_calls if "TweetResultByRestId" in f.url]
-
-            for xhr in tweet_calls:
-                try:
-                    data = xhr.json()
-                    result = data.get('data', {}).get('tweetResult', {}).get('result')
-                    if result:
-                        # Extract just the tweet text instead of the entire JSON
-                        tweet_text = result.get('legacy', {}).get('full_text', '')
-                        if tweet_text:
-                            all_tweet_data.append({
-                                'text': tweet_text,
-                                'user': result.get('core', {}).get('user_results', {}).get('result', {}).get('legacy', {}).get('screen_name', username),
-                                'created_at': result.get('legacy', {}).get('created_at', '')
-                            })
-                        break  # Found the main tweet data, move to the next link
-                except Exception as e:
-                    print(f"Could not parse JSON from XHR call: {e}")
-            
-            new_page.close() # Close the page after scraping
-    
+    logger.error(f"Failed to fetch tweets for @{username} after {retries} attempts")
     return all_tweet_data
-
-if __name__ == "__main__":
-    username = "tetsuoai"
-    tweets = scrape_last_10_tweets_by_clicking(username)
-    for tweet in tweets:
-        print(tweet)
-        print("-" * 50)

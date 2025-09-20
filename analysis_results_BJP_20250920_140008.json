@@ -1,0 +1,126 @@
+{
+  "party": "BJP",
+  "generated_at": "2025-09-20T14:00:08.867507",
+  "news_analysis": {
+    "total": 0,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "average_polarity": 0.0,
+    "details": []
+  },
+  "tweets_analysis": {
+    "total": 20,
+    "positive": 5,
+    "negative": 0,
+    "neutral": 15,
+    "average_polarity": 0.090175,
+    "details": [
+      {
+        "text": "India's ports are the backbone of our nation's rise as a global maritime powerhouse. Addressing the 'Samudra Se Samriddhi' programme in Bhavnagar.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Today, 20th September is an important day for India’s maritime sector and our quest towards self-reliance. At around 10:30 AM, will take part in the  ‘Samudra se Samriddhi’ programme in Bhavnagar. Works worth over Rs. 34,200 crores will be inaugurated or their foundation stones laid. These will benefit people across India. Key policies relating to the shipping sector will also be our focus. \n\n\nhttps://\npib.gov.in/PressReleasePa\nge.aspx?PRID=2168550\n…",
+        "sentiment": "Positive",
+        "polarity": 0.175
+      },
+      {
+        "text": "জনপ্ৰিয় কণ্ঠশিল্পী জুবিন গাৰ্গৰ আকস্মিক মৃত্যুত স্তম্ভিত হৈ পৰিছো। সংগীতৰ ক্ষেত্ৰখনলৈ আগবঢ়োৱা চহকী অৱদানৰ বাবে তেওঁ স্মৰণীয় হৈ থাকিব। তেওঁৰ গীত সকলো শ্ৰেণীৰ মানুহৰ মাজত অতি জনপ্ৰিয় আছিল। তেওঁৰ পৰিয়াল আৰু অনুৰাগীলৈ গভীৰ সমবেদনা জ্ঞাপন কৰিছো। ঔম শান্তি।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Shocked by the sudden demise of popular singer Zubeen Garg. He will be remembered for his rich contribution to music. His renditions were very popular among people across all walks of life. Condolences to his family and admirers. Om Shanti.",
+        "sentiment": "Positive",
+        "polarity": 0.21100000000000002
+      },
+      {
+        "text": "This morning, planted a Kadamb sapling at 7, Lok Kalyan Marg, which was gifted by His Majesty King Charles III. He is very passionate about the environment and sustainability, a topic which features in our discussions too.\n\n\n@RoyalFamily",
+        "sentiment": "Positive",
+        "polarity": 0.2175
+      },
+      {
+        "text": "ਸਿੱਖ ਸੰਗਤ ਨਾਲ ਇੱਕ ਮੀਟਿੰਗ ਵਿੱਚ, ਪ੍ਰਸਿੱਧ ਗਾਇਕਾ ਹਰਸ਼ਦੀਪ ਕੌਰ ਨੇ ਮੂਲ ਮੰਤਰ ਦੀ ਸੁੰਦਰ ਪੇਸ਼ਕਾਰੀ ਦਿੱਤੀ...\n\n\n@HarshdeepKaur",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "A pleasure speaking with Prime Minister Mitsotakis today. Grateful for his warm birthday wishes. India-Greece Strategic Partnership continues to grow across trade, investment, connectivity, defence, security and people-to-people linkages. We reaffirmed our commitment to early conclusion of the India-EU FTA and to regional peace and security.\n\n\n@PrimeministerGR",
+        "sentiment": "Positive",
+        "polarity": 0.35
+      },
+      {
+        "text": "At the meeting with the Sikh Sangat, noted singer Harshdeep Kaur sang a beautiful rendition of the Mool Mantra...\n\n\n@HarshdeepKaur",
+        "sentiment": "Positive",
+        "polarity": 0.85
+      },
+      {
+        "text": "India's ports are the backbone of our nation's rise as a global maritime powerhouse. Addressing the 'Samudra Se Samriddhi' programme in Bhavnagar.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "पंडित श्रीराम शर्मा आचार्य जी की जयंती पर उन्हें नमन करता हूँ। आचार्य जी ने विज्ञान और अध्यात्म के बीच सामंजस्य बनाया और ‘अखिल विश्व गायत्री परिवार’ की स्थापना से गायत्री मंत्र पर आधारित साधना को विस्तार दिया। उन्होंने शास्त्रों के ज्ञान को सरल भाषा में आम जन के लिए सुलभ बनाया।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "विपक्ष किसी भी संवैधानिक मंच की जगह रोड पर डिबेट करना चाहता है, इसलिए जनता ने उन्हें रोड पर ही रखा है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश के 25 करोड़ लोगों को गरीबी रेखा से बाहर निकाल कर मोदी जी ने 'गरीबी हटाओ' के राजनीतिक नारे को जमीन पर उतारने का काम किया।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Next Gen. GST लाकर आजाद भारत के इतिहास में टैक्स में सबसे बड़ी कटौती मोदी जी ने ही की।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मोदी जी ने अंतरराष्ट्रीय संबंधों में भी ऐसे रिश्ते बनाए, जिनसे देश को इतना लाभ हुआ, जितना आज़ादी के बाद कभी नहीं हुआ था।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "पीएम \n@narendramodi\n के जन्मदिन पर दें पर्सनलाइज्ड AI Shubhkamna Reel से संदेश। अपने नाम, पेशे के साथ बताएं उनकी प्रेरणाओं को। अभी शेयर करें।\n\nनमो ऐप पर हिस्सा लें: \nhttps://\nnm-4.com/aishubhkamnare\nel\n…   \n\n#HappyBdayPMModi \n#SevaParv",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद की सेना... ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मैं, नरेंद्र दामोदरदास मोदी…\n\n#ModiAgain",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Strengthening international cooperation like never before!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मेरी काशी!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": 0.0,
+    "tweets_sentiment": 0.090175,
+    "combined_sentiment": 0.090175
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "party": "AAP",
+  "generated_at": "2025-09-20T14:04:33.036682",
+  "news_analysis": {
+    "total": 29,
+    "positive": 7,
+    "negative": 7,
+    "neutral": 15,
+    "average_polarity": 0.004658240865137419,
+    "details": [
+      {
+        "text": "4,932 Shares in Advance Auto Parts, Inc. $AAP Purchased by Financiere des Professionnels Fonds d investissement inc.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Inquest concludes into 'miracle baby' who died at hospital hours after birth",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "AFLW great Pearce aiming to take down former club Demons",
+        "sentiment": "Positive",
+        "polarity": 0.21481481481481482
+      },
+      {
+        "text": "Parts of Queensland to be hit by thunderstorms as others prepare for cooler mornings to come",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Q1 EPS Forecast for Advance Auto Parts Increased by Analyst",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Sharks vow they 'won't be silly' by taunting Raiders in sudden-death semi",
+        "sentiment": "Negative",
+        "polarity": -0.5
+      },
+      {
+        "text": "Q3 EPS Forecast for Advance Auto Parts Decreased by Analyst",
+        "sentiment": "Negative",
+        "polarity": -0.4
+      },
+      {
+        "text": "‘Samjhao isko, boht khubsurat samajhti hai’: DDLJ actor Himani Shivpuri reveals how Salman Khan and Aishwarya Rai broke up",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Olympic champion Lyles gives 'amazing kid' Gout nod of approval",
+        "sentiment": "Positive",
+        "polarity": 0.6000000000000001
+      },
+      {
+        "text": "Pat Cummins hints at Ashes strategy amid recovery from back injury",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "AAP govt convenes special Assembly session from Sept 26-29",
+        "sentiment": "Positive",
+        "polarity": 0.35714285714285715
+      },
+      {
+        "text": "Horrible black eye can't stop Australian Liam Paro winning boxing bout",
+        "sentiment": "Negative",
+        "polarity": -0.16666666666666669
+      },
+      {
+        "text": "RFK Jr.'s advisory panel recommends new restrictions on MMRV vaccines",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      },
+      {
+        "text": "Erin Patterson trial doctor stands by 'sociopath' comments despite AHPRA sanction",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Face-scanning boundary set after Kmart's privacy breach",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Fed up with online purchases, AFL fans queue up for finals tickets",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Four held as 3000-year-old bracelet belonging to pharaoh King Amenemope stolen from Cairo museum",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Retirement funds disaster leaves investors in 'a really dark place'",
+        "sentiment": "Negative",
+        "polarity": -0.15
+      },
+      {
+        "text": "Senior lawyer withdraws from legal team announced by AAP to challenge Doda MLA’s detention under PSA",
+        "sentiment": "Positive",
+        "polarity": 0.2
+      },
+      {
+        "text": "CDC's new advisers debate changing guidance on childhood vaccines",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      },
+      {
+        "text": "New vaccine advisory panel is expected to vote on COVID-19, hepatitis B and MMRV vaccines",
+        "sentiment": "Positive",
+        "polarity": 0.018181818181818174
+      },
+      {
+        "text": "Rahul Gandhi's allegations are 'serious', but he remained silent over similar discrepancies in Delhi: Saurabh Bharadwaj",
+        "sentiment": "Negative",
+        "polarity": -0.1111111111111111
+      },
+      {
+        "text": "Senior advocate Kotwal opts out of team contesting case of AAP MLA detained under PSA",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Donald Trump takes aim at Jimmy Fallon and Seth Meyers after Jimmy Kimmel suspended over Charlie Kirk comments",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Senior advocate withdraws from defending detained AAP MLA Mehraj Malik: ‘His utterances are…’",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "‘Superstitious’ Govinda didn’t board a flight for Hyderabad shoot, Aruna Irani went to his home in Mumbai to bring him: Himani Shivpuri",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Kennedy's advisory panel to vote on hepatitis B and MMRV vaccines",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Kennedy's advisory panel is expected to vote on hepatitis B and MMRV vaccines",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      },
+      {
+        "text": "Kennedy’s advisory panel is expected to vote on hepatitis B and MMRV vaccines",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 16,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 13,
+    "average_polarity": 0.0453125,
+    "details": [
+      {
+        "text": "इस इंक़लाब के लिए पंजाब के लोगों को बहुत-बहुत बधाई।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Congratulations \n@MamataOfficial\n didi for landslide victory. What a fight!\n\nCongratulations to the people of WB",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मेरी सभी मकान मालिकों से अपील है-\n\nलॉकडाउन के दौरान अगर आपके किराएदारों के पास तुरंत किराया देने के पैसे न हो तो अगले एक या दो महीने का किराया बाद में किश्तों में ले लें। इस महामारी के दौरान किसी गरीब को हम बेसहारा और भूखा नहीं छोड़ सकते। ये हम सबकी साझी जिम्मेदारी है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "PM has taken correct decision to extend lockdown. Today, India’s position is better than many developed countries because we started lockdown early. If it is stopped now, all gains would be lost. To consolidate, it is imp to extend it",
+        "sentiment": "Positive",
+        "polarity": 0.30000000000000004
+      },
+      {
+        "text": "मेरा छोटा भाई भगवंत मान पंजाब के मुख्यमंत्री पद की शपथ लेगा। आज वे शपथ ग्रहण का न्यौता देने मेरे घर आए। मुझे पूरा भरोसा है कि भगवंत एक मुख्यमंत्री के तौर पर पंजाब के लोगों की हर उम्मीद को पूरा करेंगे।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "We support the govt on its decisions on J & K. We hope this will bring peace and development in the state.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Thank u so much sir. I look forward to working closely wid Centre to make our capital city into a truly world class city.",
+        "sentiment": "Positive",
+        "polarity": 0.2
+      },
+      {
+        "text": "पहले बोले 2000 का नोट लाने से भ्रष्टाचार बंद होगा। अब बोल रहे हैं 2000 का नोट बंद करने से भ्रष्टाचार ख़त्म होगा\n\nइसीलिए हम कहते हैं, PM पढ़ा लिखा होना चाहिए। एक अनपढ़ पीएम को कोई कुछ भी बोल जाता है। उसे समझ आता नहीं है। भुगतना जनता को पड़ता है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "प्रधानमंत्री जी ने घोषित किया हुआ 21 दिन का देशव्यापी लॉकडाउन कोरोना को फैलने से रोकने के लिए बेहद जरूरी है\n\nमैं दिल्ली के हर व्यक्ति को आश्वस्त करता हूँ कि अगले 3 हफ्ते essential items की सप्लाई में कोई कमी नहीं होने देंगे। इस मुश्किल समय में आपकी हर जरूरत का ख्याल रखा जाएगा",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Arrest of 21 yr old Disha Ravi is an unprecedented attack on Democracy. Supporting our farmers is not a crime.",
+        "sentiment": "Positive",
+        "polarity": 0.225
+      },
+      {
+        "text": "पंजाब के मुख्यमंत्री \n@BhagwantMann\n जी ने देश और विदेश में रहने वाले पंजाबियों से की अपील —\n\n“हम ‘मिशन चढ़दीकला' की शुरुआत करने जा रहे हैं।\n\nप्रिय पंजाबियों, पिछले समय पंजाब ने सिर्फ़ बाढ़ का भयानक मंज़र ही नहीं देखा बल्कि लाखों लोगों के सपने बाढ़ के पानी में बह गए। \n\nआइए हम सब मिलकर इस कठिन समय में पंजाब का हाथ थामें और दिल खोलकर पंजाब की मदद करें।”\n\nसहयोग करने के लिए इस लिंक पर जाएँ - \nhttp://\nrangla.punjab.gov.in",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश के हर बच्चे को अच्छी शिक्षा देने से हमें नहीं रोक पाओगे मोदी जी।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश सत्य के साथ है \nदेश अपने बेटे अरविंद केजरीवाल के साथ है \n\n#IStandWithKejriwal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "TDP के चंद्रबाबू नायडू और JDU के नीतीश कुमार लेंगे सही फैसला \n\nदेश की जनता TDP के चंद्रबाबू नायडू और JDU के नीतीश कुमार जी से उम्मीद कर रही है कि वो सही समय पर सही फ़ैसला लेंगे।\n\nदेश में तानाशाही को ख़त्म करके और लोगों की बेरोज़गारी और महंगाई की समस्या को दूर करने के लिए लोकतांत्रिक सरकार बनायेंगे।\n\n\n@AapKaGopalRai\n \n\n#ElectionsResults",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "हम हैं Team I-N-D-I-A वाले ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Big Announcement: \n\nBaby Mufflerman is invited to the swearing in ceremony of \n@ArvindKejriwal\n on 16th Feb. \n\nSuit up Junior!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": 0.004658240865137419,
+    "tweets_sentiment": 0.0453125,
+    "combined_sentiment": 0.02498537043256871
+  }
+}
