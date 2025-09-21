@@ -7,3 +7,5 @@ textblob
 matplotlib
 seaborn
 playwright
+streamlit
+ollama
