@@ -117,3 +117,11 @@ Added trend visualization over time to track sentiment changes.
 Added comparison charts between different political parties.
 
 Charts are generated automatically after analysis and help in quickly understanding public opinion.
+
+Added a Streamlit-based chatbot that allows users to ask questions about the political data collected.
+
+The chatbot uses local CSV files (news, tweets, sentiment analysis) to provide answers.
+
+Uses Ollama’s phi3:mini model for lightweight LLM-based responses.
+
+Context is automatically extracted from the CSVs, so no external API calls are needed.
