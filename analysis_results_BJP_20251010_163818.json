@@ -1,0 +1,297 @@
+{
+  "party": "BJP",
+  "generated_at": "2025-10-10T16:38:18.213734",
+  "news_analysis": {
+    "total": 30,
+    "positive": 1,
+    "negative": 5,
+    "neutral": 24,
+    "average_polarity": -0.029583333333333333,
+    "details": [
+      {
+        "text": "Petitions before Cal HC seeking NIA, CBI probes into assault on BJP MP Khagen Murmu",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Exclusive | Congress likely to contest 58 seats in Bihar, 12 fewer than 2020 assembly elections",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "P Chidambaram seeks answers on Bihar SIR, asks EC if duplicate entries in voter rolls are 5.2 lakh",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Senior BJP leader Rajen Gohain, 17 others quit party",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Former Union minister and senior Assam BJP leader Rajen Gohain, 17 members resign from party",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Quran recitation at Karnataka govt event: BJP fumes over 'protocol breach'; MLA Arvind Bellad seeks legal action",
+        "sentiment": "Positive",
+        "polarity": 0.15000000000000002
+      },
+      {
+        "text": "RJD MLA Bharat Bind resigns from state assembly, to join BJP",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Elvish Yadav visits Premanand Maharaj ashram, vows to chant Radha 10,000 times daily",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "No rift in NDA over seat-sharing, says Chirag Paswan as party convenes meet to plan Bihar poll strategy",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Pawan Singh tortured me, gave abortion pills, wife Jyoti Singh alleges; 'I took 25 sleeping pills to overcome that'",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Lakhimpur Kheri violence: SC allows Ashish Mishra to visit hometown on Diwali",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "4 held for BJP youth leader’s murder in Karnataka’s Koppal; revenge killing, say police",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP pushes for final-year students to join MCS & MPS prelims",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "'No note found': Bengaluru cop dies by suicide at home; served as BJP opposition leader R Ashoka's driver",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "KT Rama Rao, T. Harish under house arrest over protest on Bus hike fares in Telangana",
+        "sentiment": "Negative",
+        "polarity": -0.05
+      },
+      {
+        "text": "Death of a singer: Elections ahead, Zubeen Garg row becomes political fodder",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Cough syrup tragedy: Police detains Sresan Pharma owner S Ranganathan",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Manipur NDA MLAs camp in Delhi, hope to have Centre’s ear for end of President’s Rule",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Self-control as a mediator between caregiver burden and psychological resilience among psychiatric caregivers in Oman",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Pakistan Courts Trump With Port Offer",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Jammu and Kashmir: Omar government failed to protect land & dignity of people, alleges Mehbooba Mufti; targets over 'no concrete policy'",
+        "sentiment": "Negative",
+        "polarity": -0.2875
+      },
+      {
+        "text": "Congress weakened anti-terror fight, must tell who prevented military response after 26/11: PM",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      },
+      {
+        "text": "BJP’s doors closed to NC, never wanted to form government together: LoP",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      },
+      {
+        "text": "Register FIR against PDP’s Iltija Mufti for toeing separatism, spreading communal hatred: Zorawar",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "EC reviews West Bengal's readiness for SIR",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Bihar elections: Chirag Paswan, Manjhi press NDA; Mukesh Sahni and Dipankar Bhattacharya push INDIA bloc in seat talks",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Four days on, relief yet to reach villages in Bengal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP hails Govt’s decision to do away with interviews for Grade IV posts",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Probe fake drug sales in state, Babulal Marandi urges state health department",
+        "sentiment": "Negative",
+        "polarity": -0.5
+      },
+      {
+        "text": "BJP opposition leader R Ashoka’s escort vehicle driver ends life in Bengaluru",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 24,
+    "positive": 10,
+    "negative": 1,
+    "neutral": 13,
+    "average_polarity": 0.1121606691919192,
+    "details": [
+      {
+        "text": "World Mental Health Day serves as a powerful reminder that mental health is a fundamental part of our overall well-being. In a fast-paced world, this day underscores the importance of reflecting and extending compassion to others. Let us also work collectively to create environments where conversations around mental health become more mainstream. My compliments to all those working in this field and helping others heal and find happiness.",
+        "sentiment": "Positive",
+        "polarity": 0.17142857142857143
+      },
+      {
+        "text": "התקשרתי לחברי, ראש הממשלה נתניהו, כדי לברך אותו על ההתקדמות שנעשתה במסגרת תוכנית השלום של הנשיא טראמפ לסיום המלחמה בעזה. אנו מברכים על ההסכם לשחרור החטופים ועל הגברת הסיוע ההומניטרי לתושבי עזה. חזרתי והדגשתי כי הטרור, בכל צורה או ביטוי, הוא בלתי מתקבל על הדעת בשום מקום בעולם.\n\n\n@netanyahu",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Called my friend, Prime Minister Netanyahu, to congratulate him on the progress made under President Trump’s Gaza peace plan. We welcome the agreement on the release of hostages and enhanced humanitarian assistance to the people of Gaza. Reaffirmed that terrorism in any form or manifestation is unacceptable anywhere in the world.\n\n\n@netanyahu",
+        "sentiment": "Positive",
+        "polarity": 0.8
+      },
+      {
+        "text": "Spoke to my friend, President Trump and congratulated him on the success of the historic Gaza peace plan. Also reviewed the good progress achieved in trade negotiations. Agreed to stay in close touch over the coming weeks. \n\n\n@POTUS\n \n\n\n@realDonaldTrump",
+        "sentiment": "Positive",
+        "polarity": 0.3333333333333333
+      },
+      {
+        "text": "India-UK friendship is on the move and is filled with great vigour! \n\nA picture from earlier today, when my friend PM Starmer and I began our journey to attend the Global Fintech Fest.\n\n\n@Keir_Starmer",
+        "sentiment": "Positive",
+        "polarity": 0.35
+      },
+      {
+        "text": "India has always supported the creation of a global framework for Ethical AI.",
+        "sentiment": "Positive",
+        "polarity": 0.1
+      },
+      {
+        "text": "We are not only sharing technology with other nations but also helping them develop it. This is not Digital Aid, it is Digital Empowerment.",
+        "sentiment": "Negative",
+        "polarity": -0.03125
+      },
+      {
+        "text": "I am confident that the digital currency initiative being advanced by the RBI will further strengthen India’s growth story.",
+        "sentiment": "Positive",
+        "polarity": 0.225
+      },
+      {
+        "text": "In the past decade, the way we have democratised digital technology has made it an effective example of good governance in our country.",
+        "sentiment": "Positive",
+        "polarity": 0.26249999999999996
+      },
+      {
+        "text": "Glad to have taken part in the Global Fintech Fest 2025 in Mumbai with PM Keir Starmer. Platforms like this highlight our nation’s resolve to strengthen this sector and build new momentum for global welfare.\n\n\n@Keir_Starmer",
+        "sentiment": "Positive",
+        "polarity": 0.1590909090909091
+      },
+      {
+        "text": "शराब घोटाले से लेकर शीश महल और दवाइयों तक में घोटाला करने वाली केजरीवाल सरकार ने कांग्रेस को भ्रष्टाचार में असल चुनौती दी।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "1 जनवरी 2028 से पहले दिल्ली कूड़ों के पहाड़ से मुक्त होगी।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मुख्यमंत्री व प्रधानमंत्री के रूप में कार्य करते हुए 24 वर्षों से मोदी जी स्वतंत्रता सेनानियों के सपनों को साकार करने के साथ-साथ सुशासन को जमीन पर उतार रहे हैं।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जो दिल्ली 'आपदा' सरकार में प्रदूषित और अव्यवस्थित जल आपूर्ति से जूझ रही थी, वह मोदी जी के नेतृत्व में स्वच्छ और सुलभ जल आपूर्ति का केंद्र बनने की ओर तेजी से अग्रसर है।\n\nआज नई दिल्ली में दिल्ली जल बोर्ड की ₹1816 करोड़ की विभिन्न परियोजनाओं का लोकार्पण व शिलान्यास किया। सीवेज ट्रीटमेंट प्लांट, बूस्टर पंपिंग स्टेशन, सीवर लाइन और सीवर कनेक्शन जैसे इन कार्यों से यमुना जी निर्मल बनेंगी और दिल्लीवासियों को हर मौसम में स्वच्छ जल मिल सकेगा।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "दिल्ली जल बोर्ड के ₹1816 करोड़ के विभिन्न कार्यों के उद्घाटन एवं शिलान्यास कार्यक्रम से लाइव...",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Reviewed the security of Jammu and Kashmir along with the Lt. Governor and other senior officials.\n\nWe are committed to cripple the terror ecosystem in J&K. Our security forces will continue to have full freedom to crush any attempt to threaten peace and security in the region. Instructed to further intensify alertness and synergy to accelerate towards Modi Ji's vision of a terror-free Jammu and Kashmir.",
+        "sentiment": "Positive",
+        "polarity": 0.075
+      },
+      {
+        "text": "India's digital ecosystem is setting global standards for innovation and inclusion. Addressing the Global Fintech Fest 2025 in Mumbai.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "WATCH LIVE:  Prime Minister Shri \n@narendramodi\n’s special address to the nation.",
+        "sentiment": "Positive",
+        "polarity": 0.24675324675324675
+      },
+      {
+        "text": "Haris Rauf showed what he saw!  ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "India thrash Pakistan in #AsiaCup2025 final! \n\n𝐓𝐡𝐚𝐭 𝐁𝐮𝐦𝐫𝐚𝐡 𝐬𝐢𝐠𝐧𝐚𝐥 𝐭𝐡𝐨𝐮𝐠𝐡…    #𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐒𝐢𝐧𝐝𝐨𝐨𝐫",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद की सेना... ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मैं, नरेंद्र दामोदरदास मोदी…\n\n#ModiAgain",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Strengthening international cooperation like never before!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": -0.029583333333333333,
+    "tweets_sentiment": 0.1121606691919192,
+    "combined_sentiment": 0.04128866792929293
+  }
+}

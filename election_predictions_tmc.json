@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2025-10-10T16:43:32.855979",
+    "prediction_data": {
+      "win_probability": 0.5234226945547916,
+      "sentiment_score": 0.12458880082335964,
+      "volume_factor": 0.47,
+      "raw_sentiment": {
+        "news": -0.05226334776334776,
+        "tweets": 0.24249023321449795
+      },
+      "raw_volume": {
+        "news": 30,
+        "tweets": 17
+      }
+    }
+  },
+  {
+    "date": "2025-10-10T16:43:33.260944",
+    "prediction_data": {
+      "win_probability": 0.5234226945547916,
+      "sentiment_score": 0.12458880082335964,
+      "volume_factor": 0.47,
+      "raw_sentiment": {
+        "news": -0.05226334776334776,
+        "tweets": 0.24249023321449795
+      },
+      "raw_volume": {
+        "news": 30,
+        "tweets": 17
+      }
+    }
+  },
+  {
+    "date": "2025-10-10T16:44:25.661934",
+    "prediction_data": {
+      "win_probability": 0.5234226945547916,
+      "sentiment_score": 0.12458880082335964,
+      "volume_factor": 0.47,
+      "raw_sentiment": {
+        "news": -0.05226334776334776,
+        "tweets": 0.24249023321449795
+      },
+      "raw_volume": {
+        "news": 30,
+        "tweets": 17
+      }
+    }
+  },
+  {
+    "date": "2025-10-10T16:44:33.298514",
+    "prediction_data": {
+      "win_probability": 0.5234226945547916,
+      "sentiment_score": 0.12458880082335964,
+      "volume_factor": 0.47,
+      "raw_sentiment": {
+        "news": -0.05226334776334776,
+        "tweets": 0.24249023321449795
+      },
+      "raw_volume": {
+        "news": 30,
+        "tweets": 17
+      }
+    }
+  }
+]

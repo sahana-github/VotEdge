@@ -1,0 +1,262 @@
+{
+  "party": "AAP",
+  "generated_at": "2025-10-10T16:41:52.788021",
+  "news_analysis": {
+    "total": 30,
+    "positive": 7,
+    "negative": 5,
+    "neutral": 18,
+    "average_polarity": -0.015344516594516593,
+    "details": [
+      {
+        "text": "Storm veteran granted immediate release from NRL contract",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Top Queensland university plunges to lowest global ranking in years",
+        "sentiment": "Positive",
+        "polarity": 0.25
+      },
+      {
+        "text": "Family 'quite nasty' to woman who married step-uncle before his alleged murder, court hears",
+        "sentiment": "Negative",
+        "polarity": -0.2833333333333333
+      },
+      {
+        "text": "Labuschagne boosts Ashes hopes with another ton",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "'Not shying away': Mitch Brown on the hate that's come with coming out",
+        "sentiment": "Negative",
+        "polarity": -0.8
+      },
+      {
+        "text": "One Nation leader Pauline Hanson calls out supermarket giants for ‘fleecing’ customers with ‘flimsy’ paper bags",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Bihar lady teacher caught without ticket in AC train, later returns with father to assault TTE. Watch viral video",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "'Ultra positive' Cummins backed to perform in Ashes even on limited prep",
+        "sentiment": "Positive",
+        "polarity": 0.07792207792207792
+      },
+      {
+        "text": "Death of a singer: Elections ahead, Zubeen Garg row becomes political fodder",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Prosecutors say judge 'erred' in giving Erin Patterson's parole chance",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Should you get vaccinated? Flu and COVID-19 guidance, where to go",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Censorship: PRH’s ‘Banned Wagon’ Goes to Washington",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Patients travel hours from SA city to see a GP as shortage persists",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Sam Kerr back in Champions League, coming off the bench in Chelsea draw",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "'Truly absurd': AC Milan star hits out at plan to play Serie A match in Perth",
+        "sentiment": "Negative",
+        "polarity": -0.5
+      },
+      {
+        "text": "Alex de Minaur reaches 2025 milestone, into Shanghai Masters last eight",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "OPINION: Alaska Health Div. misleads public by undermining new Covid guidelines",
+        "sentiment": "Positive",
+        "polarity": 0.06818181818181818
+      },
+      {
+        "text": "Fate of Opera House Palestine protest to be decided by NSW court",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "No power cuts in Punjab from next year: Arvind Kejriwal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "News Corp executive warns AI firms attempting 'Grand Theft Australia'",
+        "sentiment": "Positive",
+        "polarity": 0.5
+      },
+      {
+        "text": "No power cuts in Punjab from next year, says Kejriwal, launches Rs 5,000 power project",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Diamonds put foot down to beat South Africa",
+        "sentiment": "Negative",
+        "polarity": -0.15555555555555559
+      },
+      {
+        "text": "Glencore receives taxpayer bailout to save Mt Isa mining jobs",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "People are finding ways to get Covid shots despite new limits on eligibility",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      },
+      {
+        "text": "Where is Neeraj Chopra heading to recharge for 2026?",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "AFLW star says 'punching down' on Mad Monday must end",
+        "sentiment": "Negative",
+        "polarity": -0.3902777777777778
+      },
+      {
+        "text": "Buddhist monk sexually assaulted girls at Melbourne temple, trial told",
+        "sentiment": "Positive",
+        "polarity": 0.5
+      },
+      {
+        "text": "Police say proposed Opera House march has 'disaster written all over it'",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "RS Chairman Radhakrishnan reminds members of 'Lakshman Rekha' in parliamentary discourse",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Australia-PNG defence treaty: what we can learn from history to make this new alliance work",
+        "sentiment": "Positive",
+        "polarity": 0.13636363636363635
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 17,
+    "positive": 3,
+    "negative": 0,
+    "neutral": 14,
+    "average_polarity": 0.04264705882352941,
+    "details": [
+      {
+        "text": "इस इंक़लाब के लिए पंजाब के लोगों को बहुत-बहुत बधाई।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Congratulations \n@MamataOfficial\n didi for landslide victory. What a fight!\n\nCongratulations to the people of WB",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "मेरी सभी मकान मालिकों से अपील है-\n\nलॉकडाउन के दौरान अगर आपके किराएदारों के पास तुरंत किराया देने के पैसे न हो तो अगले एक या दो महीने का किराया बाद में किश्तों में ले लें। इस महामारी के दौरान किसी गरीब को हम बेसहारा और भूखा नहीं छोड़ सकते। ये हम सबकी साझी जिम्मेदारी है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "PM has taken correct decision to extend lockdown. Today, India’s position is better than many developed countries because we started lockdown early. If it is stopped now, all gains would be lost. To consolidate, it is imp to extend it",
+        "sentiment": "Positive",
+        "polarity": 0.30000000000000004
+      },
+      {
+        "text": "मेरा छोटा भाई भगवंत मान पंजाब के मुख्यमंत्री पद की शपथ लेगा। आज वे शपथ ग्रहण का न्यौता देने मेरे घर आए। मुझे पूरा भरोसा है कि भगवंत एक मुख्यमंत्री के तौर पर पंजाब के लोगों की हर उम्मीद को पूरा करेंगे।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "We support the govt on its decisions on J & K. We hope this will bring peace and development in the state.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Thank u so much sir. I look forward to working closely wid Centre to make our capital city into a truly world class city.",
+        "sentiment": "Positive",
+        "polarity": 0.2
+      },
+      {
+        "text": "पहले बोले 2000 का नोट लाने से भ्रष्टाचार बंद होगा। अब बोल रहे हैं 2000 का नोट बंद करने से भ्रष्टाचार ख़त्म होगा\n\nइसीलिए हम कहते हैं, PM पढ़ा लिखा होना चाहिए। एक अनपढ़ पीएम को कोई कुछ भी बोल जाता है। उसे समझ आता नहीं है। भुगतना जनता को पड़ता है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "प्रधानमंत्री जी ने घोषित किया हुआ 21 दिन का देशव्यापी लॉकडाउन कोरोना को फैलने से रोकने के लिए बेहद जरूरी है\n\nमैं दिल्ली के हर व्यक्ति को आश्वस्त करता हूँ कि अगले 3 हफ्ते essential items की सप्लाई में कोई कमी नहीं होने देंगे। इस मुश्किल समय में आपकी हर जरूरत का ख्याल रखा जाएगा",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Arrest of 21 yr old Disha Ravi is an unprecedented attack on Democracy. Supporting our farmers is not a crime.",
+        "sentiment": "Positive",
+        "polarity": 0.225
+      },
+      {
+        "text": "देश के हर बच्चे को अच्छी शिक्षा देने से हमें नहीं रोक पाओगे मोदी जी।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "देश सत्य के साथ है \nदेश अपने बेटे अरविंद केजरीवाल के साथ है \n\n#IStandWithKejriwal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "TDP के चंद्रबाबू नायडू और JDU के नीतीश कुमार लेंगे सही फैसला \n\nदेश की जनता TDP के चंद्रबाबू नायडू और JDU के नीतीश कुमार जी से उम्मीद कर रही है कि वो सही समय पर सही फ़ैसला लेंगे।\n\nदेश में तानाशाही को ख़त्म करके और लोगों की बेरोज़गारी और महंगाई की समस्या को दूर करने के लिए लोकतांत्रिक सरकार बनायेंगे।\n\n\n@AapKaGopalRai\n \n\n#ElectionsResults",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "हम हैं Team I-N-D-I-A वाले ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Big Announcement: \n\nBaby Mufflerman is invited to the swearing in ceremony of \n@ArvindKejriwal\n on 16th Feb. \n\nSuit up Junior!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जब-जब मोदी डरता है\nED को आगे करता है\n\n#IStandWithKejriwal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Mufflerman ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": -0.015344516594516593,
+    "tweets_sentiment": 0.04264705882352941,
+    "combined_sentiment": 0.01365127111450641
+  }
+}

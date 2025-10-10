@@ -125,3 +125,33 @@ The chatbot uses local CSV files (news, tweets, sentiment analysis) to provide a
 Uses Ollama’s phi3:mini model for lightweight LLM-based responses.
 
 Context is automatically extracted from the CSVs, so no external API calls are needed.
+
+## Election Prediction Engine
+
+### How Predictions Work
+The election prediction engine uses the following approach:
+1. **Sentiment Analysis**: Analyzes sentiment from news articles and social media posts
+2. **Weighted Scoring**: Combines news sentiment (40% weight) and social media sentiment (60% weight)
+3. **Volume Adjustment**: Adjusts predictions based on volume of mentions to prevent bias
+4. **Probability Calculation**: Converts sentiment scores to winning probabilities (0-100%)
+
+### Usage
+Run daily analysis with:
+```bash
+python daily_update.py
+```
+
+To just view current predictions:
+```bash
+python daily_update.py predict
+```
+
+Run the election prediction chatbot:
+```bash
+streamlit run chatbot/chatbot.py
+```
+
+### Visualization Features
+- Election prediction bar chart showing winning probabilities for all parties
+- Historical trend charts for each party's prediction changes over time
+- Real-time updates based on daily collected data

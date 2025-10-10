@@ -21,6 +21,7 @@ from votedge.social_media_fetcher import scrape_last_10_tweets_by_clicking
 from votedge.sentimentAnalysis import perform_sentiment_analysis
 from votedge.data_processor import analyze_news_sentiment, analyze_tweets_sentiment, save_analysis_results, load_party_twitter_handles
 from votedge.visualization import plot_sentiment_distribution, plot_comparison_between_parties, plot_sentiment_trends, load_analysis_results
+from votedge.prediction_engine import calculate_election_prediction, update_prediction_history, get_all_party_predictions
 
 
 def collect_news_data(party_name: str, api_key: str) -> list:
@@ -150,6 +151,11 @@ def main():
 
         # 3️⃣ Trend over time
         plot_sentiment_trends(".")
+
+        # 4️⃣ Election prediction bar chart
+        print("\n🗳️ Generating election prediction...")
+        plot_election_predictions()
+
     except Exception as e:
         logger.error(f"Error generating visualizations: {e}")
         print("❌ Error generating visualizations. Check logs for details.")

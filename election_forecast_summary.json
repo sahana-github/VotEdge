@@ -1,0 +1,10 @@
+{
+  "last_updated": "2025-10-10T16:43:32.856588",
+  "predictions": {
+    "BJP": 0.5043284,
+    "AAP": 0.5036566805873864,
+    "INC": 0.5094253001968791,
+    "TMC": 0.5234226945547916
+  },
+  "method": "VotEdge Election Prediction Engine v1.0"
+}

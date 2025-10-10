@@ -1,0 +1,277 @@
+{
+  "party": "INC",
+  "generated_at": "2025-10-10T16:40:24.080774",
+  "news_analysis": {
+    "total": 30,
+    "positive": 8,
+    "negative": 4,
+    "neutral": 18,
+    "average_polarity": 0.02220959595959595,
+    "details": [
+      {
+        "text": "Analyst Report: Dell Technologies Inc",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Mainstreet Equity Corp. Announces Quarterly Dividend for Period Ending September 30, 2025",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Help Desk Hijacks & Soaring Costs: RSA ID IQ Report Unveils Top Identity Threats",
+        "sentiment": "Positive",
+        "polarity": 0.5
+      },
+      {
+        "text": "DCM Unveils contentcloud.ai – An Enhanced AI-Powered Digital Asset Management (DAM) Platform",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "MindWalk Announces Share Repurchase Program",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "60 Degrees Pharmaceuticals Unveils Name of Chronic Babesiosis Clinical Trial: B-FREE Chronic Babesiosis Study",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Talisker Reports Second Month of Gold Production from Mustang Mine",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Critical Mineral Resource at Falchani Exceeds 400,000 t Cesium (M+Ind) Within Existing Lithium Resource",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Almadex Acquires Rattlesnake, Arizona Porphyry-Epithermal Project by Staking, Preliminary Surface Sampling returns 326 g/t Silver",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Pope Leo blasts economy that marginalizes poor while wealthy live in bubble of luxury",
+        "sentiment": "Positive",
+        "polarity": 0.07878787878787878
+      },
+      {
+        "text": "Netflix Expected a ‘KPop’ Rally. Elon Musk and Tariffs Got In the Way",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      },
+      {
+        "text": "'Riot Inc.': Trump launches 'whole-of-government' push to expose Antifa funding networks, dark money sources",
+        "sentiment": "Negative",
+        "polarity": -0.15
+      },
+      {
+        "text": "Sneak peek: A Death in the Stairwell",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Rekor Systems Announces Early Deployments with Caltrans and Texas DOT for Rekor Discover ®, Signaling Scalable Statewide Opportunities",
+        "sentiment": "Positive",
+        "polarity": 0.1
+      },
+      {
+        "text": "Caliber Reports Preliminary Third Quarter 2025 Results",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Tonix Pharmaceuticals to Present and Participate in Panel Discussion at World Vaccine Congress, Europe 2025",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Ligand Partner SQ Innovation Receives FDA Approval for Lasix® ONYU, an At-Home Treatment for Edema in Heart Failure Patients",
+        "sentiment": "Negative",
+        "polarity": -0.3166666666666667
+      },
+      {
+        "text": "NFI schedules third quarter 2025 financial results and conference call",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Archrock Announces Redemption of All Outstanding 6.875% Senior Notes Due 2027",
+        "sentiment": "Positive",
+        "polarity": 0.1875
+      },
+      {
+        "text": "Aduro Clean Technologies Advances Demonstration Plant Program; Begins Global Site Selection Project",
+        "sentiment": "Positive",
+        "polarity": 0.18333333333333335
+      },
+      {
+        "text": "Aduro Clean Advances Site Selection Across Canada, Europe, Mexico For Demonstration Plant Program",
+        "sentiment": "Positive",
+        "polarity": 0.3666666666666667
+      },
+      {
+        "text": "Cell where Jeffrey Epstein died never underwent proper inspection, experts say",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Pope urges news agencies to stand as bulwark against lies, manipulation and post-truths",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "(PR) Amkor Technology Starts Construction on $7 Billion Arizona Advanced Packaging Facility",
+        "sentiment": "Positive",
+        "polarity": 0.4
+      },
+      {
+        "text": "PepsiCo reports strong third quarter sales despite weakening demand in North America",
+        "sentiment": "Positive",
+        "polarity": 0.21666666666666665
+      },
+      {
+        "text": "Delta's Q3 revenue at $16.7, up 6%",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Seattle sued after mayor blames Christians for violent clash with left-wing agitators",
+        "sentiment": "Negative",
+        "polarity": -0.8
+      },
+      {
+        "text": "Azimut Confirms Extensive High-Grade Lithium Surface Discovery on Wabamisk East Property, James Bay Region, Quebec",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Baghdadi Capital Group Selects nCino to Power Global Growth and Expansion Strategy",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Genvor Restores Trading Status and Expands Global Collaborative Research Network",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 20,
+    "positive": 5,
+    "negative": 1,
+    "neutral": 14,
+    "average_polarity": 0.0637377710009289,
+    "details": [
+      {
+        "text": "हरियाणा के IPS अधिकारी वाई पूरन कुमार जी की आत्महत्या उस गहराते सामाजिक ज़हर का प्रतीक है, जो जाति के नाम पर इंसानियत को कुचल रहा है।\n\nजब एक IPS अधिकारी को उसकी जाति के कारण अपमान और अत्याचार सहने पड़ें - तो सोचिए, आम दलित नागरिक किन हालात में जी रहा होगा।\n\nरायबरेली में हरिओम वाल्मीकि की हत्या, सर्वोच्च न्यायालय के मुख्य न्यायाधीश का अपमान और अब पूरन जी की मृत्यु - ये घटनाएँ बताती हैं कि वंचित वर्ग के ख़िलाफ़ अन्याय अपनी चरम सीमा पर है।\n\nBJP-RSS की नफ़रत और मनुवादी सोच ने समाज को विष से भर दिया है।\nदलित, आदिवासी, पिछड़े और मुस्लिम आज न्याय की उम्मीद खोते जा रहे हैं।\n\nये संघर्ष केवल पूरन जी का नहीं - हर उस भारतीय का है जो संविधान, समानता और न्याय में विश्वास रखता है।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Heartfelt greetings and salute to the brave warriors of the Indian Air Force on Air Force Day.\n\nYour courage in safeguarding our skies and unwavering dedication inspire us all. We honour your unparalleled valour, sacrifices, and selfless service to the nation.\n\nJai Hind ",
+        "sentiment": "Positive",
+        "polarity": 0.4
+      },
+      {
+        "text": "रायबरेली में दलित युवक हरिओम वाल्मीकि की निर्मम हत्या सिर्फ़ एक इंसान की नहीं - इंसानियत, संविधान और न्याय की हत्या है।\n\nआज भारत में दलित, आदिवासी, मुसलमान, पिछड़े और ग़रीब - हर उस व्यक्ति को निशाना बनाया जा रहा है, जिसकी आवाज़ कमजोर है, जिसकी हिस्सेदारी छीनी जा रही है, और जिसकी ज़िंदगी सस्ती समझी जाती है।\n\nदेश में नफ़रत, हिंसा और भीड़तंत्र को सत्ता का संरक्षण मिला हुआ है - जहाँ संविधान की जगह बुलडोज़र ने ले ली है, और इंसाफ़ की जगह डर ने।\n\nमैं हरिओम के परिवार के साथ खड़ा हूँ - उन्हें न्याय ज़रूर मिलेगा। भारत का भविष्य समानता और मानवता पर टिका है और यह देश चलेगा संविधान से, भीड़ की सनक से नहीं।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "रामायण के रचयिता, आदिकवि महर्षि वाल्मीकि जी की जयंती पर आप सभी को हार्दिक शुभकामनाएं।\n\nअपने जीवन-दर्शन से उन्होंने मानवता को सत्य, न्याय, प्रेम और सदमार्ग पर चलने की प्रेरणा दी।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "The attack on the Chief Justice of India is an assault on the dignity of our judiciary and the spirit of our Constitution. \n\nSuch hatred has no place in our nation and must be condemned.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "पश्चिम बंगाल और सिक्किम के विभिन्न हिस्सों में भारी बारिश और भूस्खलन के कारण कई लोगों की मौत और कई अन्य के लापता होने की ख़बर बेहद दुखद है।\n\nमैं प्रभावित परिवारों के प्रति गहरी संवेदनाएं व्यक्त करता हूं और लापता लोगों के जल्द से जल्द सुरक्षित मिलने की आशा करता हूं।\n\nप्रशासन से अपील है कि राहत और बचाव कार्यों में और तेज़ी लाई जाए। केंद्र सरकार से आग्रह है कि स्थिति की गंभीरता को देखते हुए तत्काल प्रभावित राज्यों को आवश्यक सहायता उपलब्ध कराए।\n\nकांग्रेस नेताओं और कार्यकर्ताओं से अनुरोध करता हूं कि प्रशासन का सहयोग और प्रभावित लोगों की हर संभव मदद करें।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "राजस्थान विधानसभा के पूर्व नेता प्रतिपक्ष और पूर्व सांसद श्री रामेश्वर डूडी जी के निधन की ख़बर सुनकर गहरा दुख हुआ।\n\nविभिन्न पदों पर रहते हुए उन्होंने हमेशा जनसेवा को प्राथमिकता दी और जनता के साथ सीधे जुड़े रहे। किसानों और वंचितों के अधिकारों के लिए उनका संघर्ष हमेशा याद रखा जाएगा।\n\nइस कठिन समय में मैं उनके परिजनों और समर्थकों के प्रति गहरी संवेदनाएं व्यक्त करता हूं।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "धन्यवाद हिंदुस्तान ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": " INDIA ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जय हिंद की सेना ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "यूपी की जनता ने कमाल कर दिया।\n\nआपका बहुत-बहुत धन्यवाद  \n\n: \n@RahulGandhi\n जी",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Two Faces ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "जातीय प्रताड़ना से परेशान होकर हरियाणा के IPS अधिकारी वाई पूरन कुमार जी की आत्महत्या से पूरा देश स्तब्ध है। देश भर में दलितों के खिलाफ जिस तरह अन्याय,अत्याचार और हिंसा का सिलसिला चल रहा है, वह भयावह है। \n\nपहले रायबरेली में हरिओम वाल्मीकि जी की हत्या, फिर मुख्य न्यायाधीश का अपमान और अब एक वरिष्ठ अधिकारी की आत्महत्या यह साबित करती है कि भाजपा राज दलितों के लिए अभिशाप बन गया है। चाहे कोई आम नागरिक हो या ऊंचे पद पर हो, अगर वह दलित समाज से है तो अन्याय और अमानवीयता उसका पीछा नहीं छोड़ते। जब ऊंचे ओहदे पर बैठे दलितों का यह हाल है तो सोचिए आम दलित समाज किन हालात में जी रहा होगा।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "This meeting with 27 enterprising farmers who have come together to start a farm stay initiative was a joy! It was held at a farm owned by a wonderful couple - Elsie and Dominique. Elsie is a font of knowledge on different plants, their uses and cultivation! I told her she is super lucky because she never has to buy anything- absolutely everything you can think of grows on her farm! \n\nEach of the 27 farmers I met grows something unique (some of them have won awards for their produce) coffee, spices, fruits of all kinds, some have fisheries, others rear ducks and exotic animals, one gentleman even keeps tarantulas! \n\nFarm stay tourism needs proper encouragement and promotion from the government. So many children are growing up in urban environments, completely disconnected from nature. It would greatly benefit schools to send their students for farm stay experiences. \n\nEven for adults, this is an intriguing and fun way to learn about and experience farming. At the same time, it would provide a new avenue of income for many small farmers who could do with support.",
+        "sentiment": "Positive",
+        "polarity": 0.3317384370015949
+      },
+      {
+        "text": "The Central Government’s refusal to waive the loans of those affected by the devastating Wayanad landslides of 2024 is shocking. Especially while the loans of certain large business houses are waived without hesitation. These loans represent the lives of people who have endured unimaginable pain for no fault of theirs- they total up to a minuscule amount in comparison.\n\nThe Hon’ble Kerala High Court has observed- when people have most needed help, the Union Government has failed them. I couldn’t agree more.",
+        "sentiment": "Negative",
+        "polarity": -0.08285714285714288
+      },
+      {
+        "text": "On Indian Air Force Day, my heartfelt salute to our brave air warriors who safeguard our skies with unmatched courage, discipline and dedication.",
+        "sentiment": "Positive",
+        "polarity": 0.4
+      },
+      {
+        "text": "बिलासपुर, हिमाचल प्रदेश में एक यात्री बस के भूस्खलन की चपेट में आने की वजह से बड़ी संख्या में यात्रियों की मृत्यु एवं कई के घायल होने का समाचार अत्यंत दुखद है। \n\nईश्वर दिवंगत आत्माओं को शांति प्रदान करें। शोक-संतप्त परिवारों के प्रति मेरी गहरी संवेदनाएं। घायलों के शीघ्र स्वस्थ होने की कामना करती हूं। \n\nसंकट की इस घड़ी में राज्य की कांग्रेस सरकार हर तरह से पीड़ितों के साथ है, हर संभव मदद एवं राहत के लिए युद्धस्तर पर प्रयास किए जा रहे हैं।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Met a group of dairy farmers at a dairy farm run by the loveliest family (and even encountered a cow named Alia Bhatt!!, due apologies to Ms.Bhatt \n@aliaa08\n, but she was really a cutie pie!).\n\nUnfortunately dairy farmers are struggling with multiple difficulties and many are unable to make ends meet. I intend to write to the concerned ministry to apprise them of the many issues they face including the increased cost of veterinary medicines, lack of adequate insurance coverage and difficulty in accessing good quality cattle feed. \n\nMy gratitude to the many farmers who were kind enough to spend a lot of time explaining these issues to me. I will do whatever I can to help.",
+        "sentiment": "Positive",
+        "polarity": 0.1576923076923077
+      },
+      {
+        "text": "महान धर्मग्रंथ रामायण के रचनाकार, सामाजिक परिवर्तन एवं समानता के प्रतीक आदिकवि महर्षि वाल्मीकि जी की जयंती पर उन्हें सादर नमन। \n\nवाल्मीकि जी ने दया, करुणा, प्रेम और अहिंसा का संदेश देकर मानवता को राह दिखाई। उनकी शिक्षाएं करोड़ों देशवासियों को प्रेरित करती हैं। \n\nसभी देशवासियों को वाल्मीकि जयंती की हार्दिक शुभकामनाएं।",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "It was an honour to inaugurate the Edavanna Palliative Care Clinic, Kunduthode, Eranad, the new dialysis unit at the Taluk Hospital, Wandoor which was sanctioned by my brother Shri Rahul Gandhi and the Pain and Palliative Care Building at Pathiriyal, Thiruvali, Wandoor sanctioned by Adv. Jebi Mather M.P.\n\nMy gratitude to both of them for making this possible.",
+        "sentiment": "Positive",
+        "polarity": 0.06818181818181818
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": 0.02220959595959595,
+    "tweets_sentiment": 0.0637377710009289,
+    "combined_sentiment": 0.042973683480262426
+  }
+}

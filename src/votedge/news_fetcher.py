@@ -2,7 +2,7 @@ import requests
 import os
 import time
 from dotenv import load_dotenv
-from votedge.logger import logger
+from .logger import logger
 
 load_dotenv()
 api_key = os.getenv("NEWSAPI_KEY")

@@ -1,0 +1,262 @@
+{
+  "party": "TMC",
+  "generated_at": "2025-10-10T16:43:32.838842",
+  "news_analysis": {
+    "total": 30,
+    "positive": 5,
+    "negative": 7,
+    "neutral": 18,
+    "average_polarity": -0.05226334776334776,
+    "details": [
+      {
+        "text": "SC to hear MP Mahua Moitra's plea to mandate public disclosure of FPIs on October 14",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "TMC the metals company (TMC) Hits New Record High as Govt Deals Spark Optimism for Critical Miners",
+        "sentiment": "Positive",
+        "polarity": 0.0987878787878788
+      },
+      {
+        "text": "TMC the metals company (TMC) Hits New Record High as Govt Deals Spark Optimism for Critical Miners",
+        "sentiment": "Positive",
+        "polarity": 0.0987878787878788
+      },
+      {
+        "text": "Mamata Banerjee slams airfare hike amid natural disaster, says will visit North Bengal again next week",
+        "sentiment": "Positive",
+        "polarity": 0.05
+      },
+      {
+        "text": "tmc-export 0.0.7",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Mamata Banerjee govt ruling Bengal with 'Talibani mindset and culture': BJP",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Vandalism of TMC office: TMC delegation stages airport sit-in in Agartala, alleges deliberate obstacles",
+        "sentiment": "Negative",
+        "polarity": -0.05
+      },
+      {
+        "text": "TMC accuses BJP of 'state-sponsored terror' after Tripura party office vandalism",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "RS Chairman Radhakrishnan reminds members of 'Lakshman Rekha' in parliamentary discourse",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "POET Technologies, Oracle, Nuburu, Galecto And TMC The Metals Company: Why These 5 Stocks Are On Investors' Radars Today",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP supporters pull out TMC flags, banners from Trinamool state headquarters in Tripura, say held “token protest” against attack on BJP MLAs in Bengal",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Rijiju says every citizen must get security, Suvendu hints at JMB hand behind attack on BJP leaders",
+        "sentiment": "Negative",
+        "polarity": -0.4
+      },
+      {
+        "text": "Mamata Banerjee meets injured BJP MP Khagen Murmu at Siliguri hospital",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "PM Modi and Mamata Banerjee clash over the attack on BJP's Khagen Murmu, Shankar Ghosh",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Last chance for India’s cotton farmers",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Cybersecurity jobs available right now: October 7, 2025",
+        "sentiment": "Positive",
+        "polarity": 0.34285714285714286
+      },
+      {
+        "text": "Such big attack cannot happen without CM's knowledge: Sukanta Majumdar slams TMC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "India's multi-party delegations to participate at UNGA in October",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "West Bengal: BJP MP & MLA assaulted during flood tour",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP MP, MLA attacked in flood-hit Dooars, PM says ‘outright appalling’, CM hits back",
+        "sentiment": "Negative",
+        "polarity": -0.175
+      },
+      {
+        "text": "Showers drench north India; fresh snowfall, rains in J&K",
+        "sentiment": "Positive",
+        "polarity": 0.3
+      },
+      {
+        "text": "PM Modi slams TMC for attack on BJP MP, MLA in West Bengal, calls \"law & order pathetic\"",
+        "sentiment": "Negative",
+        "polarity": -1.0
+      },
+      {
+        "text": "India to send multi-party delegations to UNGA",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "India to send multi-party delegations to UNGA",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Sudhanshu Trivedi condemns alleged TMC attack on BJP leaders Shankar Ghosh, Khagen Murmu as dangerous and unfortunate",
+        "sentiment": "Negative",
+        "polarity": -0.39999999999999997
+      },
+      {
+        "text": "‘Seriously injured’: BJP MP Khagen Murmu attacked by miscreants while distributing flood relief in Jalpaiguri",
+        "sentiment": "Negative",
+        "polarity": -0.3333333333333333
+      },
+      {
+        "text": "North Bengal floods: BJP MP Khagen Murmu attacked during visit to Jalpaiguri; party blames TMC",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "BJP MP Khagen Murmu allegedly attacked in Bengal's Nagrakata; party pins blame on 'TMC's Jungle Raj'",
+        "sentiment": "Negative",
+        "polarity": -0.1
+      },
+      {
+        "text": "NSE to build Rs 380-crore facility for cancer treatment at Tata Memorial Centre",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Decode Politics: Do Mamata Banerjee’s attacks on Central agency over ‘man-made’ floods in Bengal hold water?",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "tweets_analysis": {
+    "total": 17,
+    "positive": 10,
+    "negative": 1,
+    "neutral": 6,
+    "average_polarity": 0.24249023321449795,
+    "details": [
+      {
+        "text": "Maharaja Tomare Selam… \n\nTribute to Satyajit Ray, legendary filmmaker, writer, composer, lyricist, illustrator, on his birth centenary. He is not only the pride of Bengal but also India & the whole world. He is an inspiration to people around the globe.\n\n#SatyajitRay100",
+        "sentiment": "Positive",
+        "polarity": 0.39999999999999997
+      },
+      {
+        "text": "Happy that the legendary Indian batsman Virat Kohli is there in Kolkata on his birthday to play a historic match for our country!! \nA very happy birthday to Virat \n@imVkohli\n !! \nWish him and his family all happiness and success!!",
+        "sentiment": "Positive",
+        "polarity": 0.6614583333333334
+      },
+      {
+        "text": "Kolkata Knight Riders' win has brought about an air of celebration all across Bengal.\n\nI would like to personally congratulate the players, the support staff and the franchise for their record breaking performance in this season of the IPL.\n\nWishing for more such enchanting victories in the years to come!",
+        "sentiment": "Positive",
+        "polarity": 0.325
+      },
+      {
+        "text": "Jai Hind! Jai India!",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Congratulations, Union Home Minister!! \n\nYour son has not become a politician, but has become the ICC Chairman - a post much much more important than most politicians'!!  Your son has indeed become very very powerful and I congratulate you on his this most elevated achievement indeed! \n\nKudos!!",
+        "sentiment": "Positive",
+        "polarity": 0.6095625
+      },
+      {
+        "text": "Thank you \n@RahulGandhi\n ji for your warm wishes.\n \nPeople of Bengal have paved the way for the rest of the country. BJP's politics of hatred shall be booted out of India very soon.",
+        "sentiment": "Positive",
+        "polarity": 0.4
+      },
+      {
+        "text": "I don’t trust Exit Poll gossip. The game plan is to manipulate or replace thousands of EVMs through this gossip. I appeal to all Opposition parties to be united, strong and bold. We will fight this battle together",
+        "sentiment": "Positive",
+        "polarity": 0.12222222222222219
+      },
+      {
+        "text": "My heartiest congratulations to Subho Paul, who has been selected to represent FC Bayern Munich World Squad in Germany.\n\nAt the young age of 17, he has shown the world what football truly means to Bengal - beyond sport, it's an emotion.\n\nProud moment for our country.",
+        "sentiment": "Positive",
+        "polarity": 0.45
+      },
+      {
+        "text": "On this day 10 years back, I took oath as CM for the first time to serve the people of #WestBengal as we embarked on a new path for the state’s development.\n\nI'm grateful to Maa-Mati-Manush for always blessing me with their trust. I pledge to take #Bangla to even greater heights.",
+        "sentiment": "Positive",
+        "polarity": 0.2215909090909091
+      },
+      {
+        "text": "The counting process for Nandigram has not been completed. Please do not speculate.",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Yeh \n@BJP4Bengal\n hai.\nYeh unki jansabha hai.\nAur yahaan inki pawri ho rahi hai!\n\n",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Oops! ",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "দলনেত্রীর \n@MamataOfficial\n আবেদন",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      },
+      {
+        "text": "Didi is winning Nandigram. The question of her fighting from another seat doesn't arise. \n@narendramodi\n Ji, retract from your efforts to mislead people before they see your lies with the end of nomination in WB. Look for a safer seat in 2024, as you will be challenged in Varanasi.",
+        "sentiment": "Positive",
+        "polarity": 0.5
+      },
+      {
+        "text": "We’re only getting started. In the battle to save India’s democratic soul, the entire Opposition stands united.\n\nToday’s protest was just the trailer, and it’s already rattled the BJP-ECI nexus so badly that Amit Shah’s Delhi Police had to be rushed in.\n\nThat’s the kind of panic that strikes when you know accountability is coming.",
+        "sentiment": "Negative",
+        "polarity": -0.024999999999999967
+      },
+      {
+        "text": "Today, in the presence of National General Secretary \n@abhishekaitc\n and RS MP \n@derekobrienmp\n, former Union Minister and sitting MP \n@SuPriyoBabul\n joined the Trinamool family.\n\nWe take this opportunity to extend a very warm welcome to him!",
+        "sentiment": "Positive",
+        "polarity": 0.4575
+      },
+      {
+        "text": "Ek akela kitno pe bhari para, \n@narendramodi\n ji?",
+        "sentiment": "Neutral",
+        "polarity": 0.0
+      }
+    ]
+  },
+  "overall_sentiment": {
+    "news_sentiment": -0.05226334776334776,
+    "tweets_sentiment": 0.24249023321449795,
+    "combined_sentiment": 0.09511344272557509
+  }
+}

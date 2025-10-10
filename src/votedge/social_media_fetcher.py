@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-from votedge.logger import logger
+from .logger import logger
 import time
 
 def scrape_last_10_tweets_by_clicking(username: str, retries=3, delay=2) -> list:

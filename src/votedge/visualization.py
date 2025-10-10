@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
+from .prediction_engine import get_all_party_predictions, get_prediction_trends
 
 sns.set(style="whitegrid")
 
@@ -77,4 +78,66 @@ def plot_sentiment_trends(folder="."):
     plt.ylim(-1,1)
     plt.tight_layout()
     plt.legend(title='Party')
+    plt.show()
+
+
+def plot_election_predictions():
+    """
+    Plot bar chart showing election prediction probabilities for all parties
+    """
+    from .prediction_engine import get_all_party_predictions
+    predictions = get_all_party_predictions()
+    
+    if not predictions:
+        print("No prediction data available for visualization.")
+        return
+    
+    parties = list(predictions.keys())
+    probabilities = [predictions[party] * 100 for party in parties]  # Convert to percentage
+    
+    plt.figure(figsize=(10, 6))
+    bars = plt.bar(parties, probabilities, color=['skyblue', 'orange', 'lightgreen', 'pink'][:len(parties)])
+    plt.ylabel('Win Probability (%)')
+    plt.title('Election Prediction: Winning Probability by Party')
+    plt.ylim(0, 100)
+    
+    # Add percentage labels on bars
+    for bar, prob in zip(bars, probabilities):
+        plt.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 1, 
+                f'{prob:.1f}%', ha='center', va='bottom')
+    
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_prediction_trends(party_name):
+    """
+    Plot historical prediction trends for a specific party
+    """
+    from .prediction_engine import get_prediction_trends
+    import matplotlib.dates as mdates
+    from datetime import datetime
+    
+    history = get_prediction_trends(party_name)
+    
+    if not history:
+        print(f"No prediction history available for {party_name}.")
+        return
+    
+    # Extract dates and prediction probabilities
+    dates = [datetime.fromisoformat(entry['date'].replace('Z', '+00:00')) for entry in history]
+    probabilities = [entry['prediction_data']['win_probability'] * 100 for entry in history]  # Convert to percentage
+    
+    plt.figure(figsize=(10, 6))
+    plt.plot(dates, probabilities, marker='o', linewidth=2, markersize=6)
+    plt.ylabel('Win Probability (%)')
+    plt.title(f'Prediction Trend for {party_name}')
+    plt.ylim(0, 100)
+    
+    # Format x-axis dates
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
+    plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=2))
+    plt.xticks(rotation=45)
+    
+    plt.tight_layout()
     plt.show()

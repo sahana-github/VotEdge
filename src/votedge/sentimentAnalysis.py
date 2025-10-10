@@ -1,5 +1,6 @@
 import pandas as pd
 from textblob import TextBlob
+from .logger import logger
 
 def get_sentiment(text):
     """Determine sentiment of text using TextBlob"""
